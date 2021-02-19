@@ -78,7 +78,16 @@
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 
-<p>The <strong>Abstraction Layer</strong> is a public <a href="https://www.nuget.org/packages/DirectScale.Disco.Extension.Abstractions/">NuGet</a> package. It's one of the ways your code communicates back to DirectScale. You have access to many methods created by DirectScale.</p>
+<p>The <strong>Abstraction Layer</strong> is a public <a href="https://www.nuget.org/packages/DirectScale.Disco.Extension.Abstractions/">NuGet</a> package. The Abstraction Layer contains a host of methods created by DirectScale that you can use in your own custom code.</p>
+<p>For example, when creating a custom API:</p>
+<pre><code>namespace integration.Api
+{
+    public class TestCustomSources : IApiEndpoint
+    {
+        private readonly ISourceService _sourceService;
+</code></pre>
+<p>This snippet inherits from <a href="api/DirectScale.Disco.Extension.Api.IApiEndpoint.html">IApiEndpoint</a> and uses <a href="api/DirectScale.Disco.Extension.Services.ISourceService.html">ISourceService</a>. Click each link to learn more.</p>
+<p>The Abstractions is a public NuGet package included with your <a href="https://developers.directscale.com/docs/what-is-the-client-extension">Client Extension</a>.</p>
 <blockquote>
 <p>NuGet Package Link: <a href="https://www.nuget.org/packages/DirectScale.Disco.Extension.Abstractions/">DirectScale.Disco.Extension.Abstractions</a></p>
 </blockquote>
