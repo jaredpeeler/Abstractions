@@ -92,6 +92,10 @@ span.languagekeyword{
     fill: #ffffff;
 }*/
 
+svg path {
+    fill: #ffffff;
+}
+
 .hljs {
   display: inline;
   background-color: inherit;
