@@ -25,7 +25,7 @@ sub,sup{font-size:75%;line-height:0;position:relative}
 sup{top:-.5em}
 sub{bottom:-.25em}
 img{vertical-align:middle}
-svg:not(:root){overflow:hidden}
+svg:not(:root){overflow:hidden;width: 177px;height: 40px;}
 hr{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;height:0}
 pre,textarea{overflow:auto}
 code,kbd,pre,samp{font-size:1em}
@@ -397,7 +397,7 @@ ol,ul{margin-bottom:10px}
 dd{margin-left:0}
 @media (min-width:768px){.dl-horizontal dt{float:left;width:160px;clear:left;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .dl-horizontal dd{margin-left:180px}
-.container{width:750px}
+.container{width:750px; }
 }
 abbr[data-original-title],abbr[title]{cursor:help}
 .checkbox.disabled label,.form-control[disabled],.radio.disabled label,fieldset[disabled] .checkbox label,fieldset[disabled] .form-control,fieldset[disabled] .radio label,fieldset[disabled] input[type=checkbox],fieldset[disabled] input[type=radio],input[type=checkbox].disabled,input[type=checkbox][disabled],input[type=radio].disabled,input[type=radio][disabled]{cursor:not-allowed}
@@ -417,7 +417,7 @@ kbd{color:#fff;background-color:#333;border-radius:3px;-webkit-box-shadow:inset 
 kbd kbd{padding:0;font-size:100%;-webkit-box-shadow:none;box-shadow:none}
 pre{padding:9.5px;margin:0 0 10px;font-size:13px;word-break:break-all;word-wrap:break-word;background-color:#f5f5f5;border:1px solid #ccc;border-radius:4px}
 pre code{padding:0;font-size:inherit;color:inherit;white-space:pre-wrap;border-radius:0}
-.container,.container-fluid{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+.container,.container-fluid{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;height: 60px;padding-top: 15px;}
 .pre-scrollable{overflow-y:scroll}
 @media (min-width:992px){.container{width:970px}
 }
