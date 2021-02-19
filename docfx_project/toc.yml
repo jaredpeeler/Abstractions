@@ -1,3 +1,5 @@
+- name: Abstractions Documentation
+  href: api/
 - name: API Documentation
   href: https://apigateway.directscale.com/
 - name: Developer Documentation
