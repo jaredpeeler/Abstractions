@@ -12,6 +12,8 @@ namespace integration.Api
 
 This snippet inherits from [IApiEndpoint](xref:DirectScale.Disco.Extension.Api.IApiEndpoint) and uses [ISourceService](xref:DirectScale.Disco.Extension.Services.ISourceService). Click each link to learn more.
 
+> [View Abstractions documentation](xref:DirectScale.Disco.Extension)
+
 The Abstractions is a public NuGet package included with your [Client Extension](https://developers.directscale.com/docs/what-is-the-client-extension).
 
 > NuGet Package Link: [DirectScale.Disco.Extension.Abstractions](https://www.nuget.org/packages/DirectScale.Disco.Extension.Abstractions/)
