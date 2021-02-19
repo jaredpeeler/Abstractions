@@ -60,7 +60,8 @@
     },
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+     "templates/ds_temp"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
