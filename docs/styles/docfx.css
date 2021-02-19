@@ -88,6 +88,10 @@ span.languagekeyword{
     font-weight: bold;
 }
 
+svg:hover path {
+    fill: #ffffff;
+}
+
 .hljs {
   display: inline;
   background-color: inherit;
@@ -180,7 +184,6 @@ header .navbar {
 .navbar-brand {
   font-size: inherit;
   padding: 0;
-  margin-right: 15px;
 }
 .navbar-collapse {
   margin: 0 -15px;
