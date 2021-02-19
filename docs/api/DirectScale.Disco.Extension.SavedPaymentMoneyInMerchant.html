@@ -1598,10 +1598,6 @@
 </div>
   <h3 id="constructors">Constructors
   </h3>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=31">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant__ctor_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.#ctor*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant__ctor_DirectScale_Disco_Extension_MerchantInfo_System_Int32_System_Int32_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.#ctor(DirectScale.Disco.Extension.MerchantInfo,System.Int32,System.Int32)">SavedPaymentMoneyInMerchant(MerchantInfo, Int32, Int32)</h4>
   <div class="markdown level1 summary"><p>Constructs the merchant with the merchant's definition.</p>
@@ -1662,10 +1658,6 @@
   </table>
   <h3 id="properties">Properties
   </h3>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=23">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_PaymentFormHeight_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.PaymentFormHeight*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_PaymentFormHeight" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.PaymentFormHeight">PaymentFormHeight</h4>
   <div class="markdown level1 summary"></div>
@@ -1689,10 +1681,6 @@
       </tr>
     </tbody>
   </table>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=22">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_PaymentFormWidth_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.PaymentFormWidth*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_PaymentFormWidth" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.PaymentFormWidth">PaymentFormWidth</h4>
   <div class="markdown level1 summary"></div>
@@ -1718,10 +1706,6 @@
   </table>
   <h3 id="methods">Methods
   </h3>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=83">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_ChargePayment_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.ChargePayment*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_ChargePayment_System_String_DirectScale_Disco_Extension_NewPayment_System_Int32_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.ChargePayment(System.String,DirectScale.Disco.Extension.NewPayment,System.Int32)">ChargePayment(String, NewPayment, Int32)</h4>
   <div class="markdown level1 summary"><p>Override this method to send a payment for processing to a custom integrated merchant.</p>
@@ -1780,10 +1764,6 @@
   <h5 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_ChargePayment_System_String_DirectScale_Disco_Extension_NewPayment_System_Int32__remarks">Remarks</h5>
   <div class="markdown level1 remarks"><p>A customer with a saved payment is trying to place an order. <a class="xref" href="DirectScale.Disco.Extension.NewPayment.html#DirectScale_Disco_Extension_NewPayment_PaymentMethodId">PaymentMethodId</a> should provide the payment token for the merchant to use as the payment method. <a class="xref" href="DirectScale.Disco.Extension.NewPayment.html#DirectScale_Disco_Extension_NewPayment_Amount">Amount</a> is the amount being charged. <code data-dev-comment-type="paramref" class="paramref">payerId</code> is the customer's id with the merchant. If additional information is needed for processing, it can likely be found by calling <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetOrderByOrderNumber_System_Int32_">GetOrderByOrderNumber(Int32)</a>.</p>
 </div>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=69">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_DeletePayment_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.DeletePayment*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_DeletePayment_System_String_System_String_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.DeletePayment(System.String,System.String)">DeletePayment(String, String)</h4>
   <div class="markdown level1 summary"><p>Override this method to property delete a saved payment with an external merchant. The payment will be removed from Directscale databases before this call, but often the merchant also has this <code data-dev-comment-type="paramref" class="paramref">paymentMethodId</code> saved as well.</p>
@@ -1817,10 +1797,6 @@
       </tr>
     </tbody>
   </table>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=62">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GenerateOneTimeAuthToken_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GenerateOneTimeAuthToken*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GenerateOneTimeAuthToken_System_String_System_Int32_System_String_System_String_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GenerateOneTimeAuthToken(System.String,System.Int32,System.String,System.String)">GenerateOneTimeAuthToken(String, Int32, String, String)</h4>
   <div class="markdown level1 summary"><p>Generates a token so that <a class="xref" href="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html#DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_System_String_System_Int32_System_String_System_String_System_String_">GetSavePaymentForm(String, Int32, String, String, String)</a> can be called securely.</p>
@@ -1881,10 +1857,6 @@
   <h5 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GenerateOneTimeAuthToken_System_String_System_Int32_System_String_System_String__remarks">Remarks</h5>
   <div class="markdown level1 remarks"><p><a class="xref" href="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html#DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_System_String_System_Int32_System_String_System_String_System_String_">GetSavePaymentForm(String, Int32, String, String, String)</a> can be publically accessed. Before any time we call <a class="xref" href="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html#DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_System_String_System_Int32_System_String_System_String_System_String_">GetSavePaymentForm(String, Int32, String, String, String)</a> we will first call <a class="xref" href="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html#DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GenerateOneTimeAuthToken_System_String_System_Int32_System_String_System_String_">GenerateOneTimeAuthToken(String, Int32, String, String)</a> and then pass the returned token into <a class="xref" href="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html#DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_System_String_System_Int32_System_String_System_String_System_String_">GetSavePaymentForm(String, Int32, String, String, String)</a>.</p>
 </div>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=91">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetExternalPayments_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GetExternalPayments*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetExternalPayments_System_String_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GetExternalPayments(System.String)">GetExternalPayments(String)</h4>
   <div class="markdown level1 summary"><p>Used to retrieve saved payment methods for <code data-dev-comment-type="paramref" class="paramref">payerId</code> that are not saved in disco.</p>
@@ -1930,10 +1902,6 @@
   <h5 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetExternalPayments_System_String__remarks">Remarks</h5>
   <div class="markdown level1 remarks"><p>This is not very commonly used. If a customer has a merchant account, and has access to add saved payments without using DirectScale, this method can be used to get all of the</p>
 </div>
-  
-  <span class="small pull-right mobile-hide">
-    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=51">View Source</a>
-  </span>
   <a id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GetSavePaymentForm*"></a>
   <h4 id="DirectScale_Disco_Extension_SavedPaymentMoneyInMerchant_GetSavePaymentForm_System_String_System_Int32_System_String_System_String_System_String_" data-uid="DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.GetSavePaymentForm(System.String,System.Int32,System.String,System.String,System.String)">GetSavePaymentForm(String, Int32, String, String, String)</h4>
   <div class="markdown level1 summary"><p>Gets the Iframe to be displayed when the customer selects to add a new payment for this merchant.</p>
@@ -2015,13 +1983,6 @@
           
           <div class="hidden-sm col-md-2" role="complementary">
             <div class="sideaffix">
-              <div class="contribution">
-                <ul class="nav">
-                  <li>
-                    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/SavedPaymentMoneyInMerchant.cs&amp;version=GBmaster&amp;line=20" class="contribution-link">View Source</a>
-                  </li>
-                </ul>
-              </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
                 <h5>In This Article</h5>
                 <div></div>
