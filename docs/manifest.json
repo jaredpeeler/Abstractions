@@ -1,0 +1,5519 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/jpeeler/Desktop/walkthrough/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.html",
+          "hash": "vNPAnOCGS2f31HQmFhmIIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AchPayment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AchPayment.html",
+          "hash": "BRRNXGNdkjB3m3BTNgbvlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Address.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Address.html",
+          "hash": "OySHNZxzsFri10Bb0rG55A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Adjustment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Adjustment.html",
+          "hash": "r/1BBQTleUaroIGEQeB3hA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AdjustmentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AdjustmentStatus.html",
+          "hash": "kUGeGD+f/ExuDiJ4vrKwzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AmountType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AmountType.html",
+          "hash": "kZyMQlaOOJ6vPYoyaD3TFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ApiDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ApiDefinition.html",
+          "hash": "ItWLdRyhdIC63bbbifXYlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ApiEndpoint-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ApiEndpoint-1.html",
+          "hash": "yLsVNKiGWJtwCEQzYkkmKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ApiRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ApiRequest.html",
+          "hash": "VF4CCOKpYla6KGhCLpNAMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ApiResponse.html",
+          "hash": "FVAYyMHLe7Hc5DMxYbxVKw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.IApiEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.IApiEndpoint.html",
+          "hash": "4qrRnBxNl5T0p23f25C03A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.IApiResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.IApiResponse.html",
+          "hash": "byfV8yK8yp3JARk/YbIR6A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.IHtmlTemplatingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.IHtmlTemplatingService.html",
+          "hash": "k1xu8lhZNHDVdZMTgaZwXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.IRequestParsingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.IRequestParsingService.html",
+          "hash": "dTrPBgju7CMlCW5aCJbjcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.IViewEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.IViewEndpoint.html",
+          "hash": "fbWBEptNKvWXuHREP7jb5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.Menu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.Menu.html",
+          "hash": "CRa0hYSaodr4QOsW7lYnAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.Ok.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.Ok.html",
+          "hash": "fdxXjLoBMfGPF3uwJjPErg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.OverrideViewName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.OverrideViewName.html",
+          "hash": "/e8e/Ul3SHt9bWxakwhqVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.RequestBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.RequestBody.html",
+          "hash": "3ButkROHvWpI3kOwKO+4fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.View.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.View.html",
+          "hash": "2UshlXyWy8Zn4SEg/bYvnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ViewDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ViewDefinition.html",
+          "hash": "mzjWrv24uTnLze7gEMLcow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ViewEndpoint-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ViewEndpoint-1.html",
+          "hash": "jroILihm0s046s/3uK11jQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ViewOverrideDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ViewOverrideDefinition.html",
+          "hash": "z1gl3CkxzxyDHAQo+yiNdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.ViewTemplate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.ViewTemplate-1.html",
+          "hash": "RqV++3GCD6mMjpIoilqQYw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Api.html",
+          "hash": "wiuY7vXvGA/Dkp7xpbz+wQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Application.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Application.html",
+          "hash": "jVukYPvkKVNcwtOxd3finw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ApplicationOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ApplicationOrder.html",
+          "hash": "LdVS+c+jayKYc9BfKEGxDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ApplicationResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ApplicationResponse.html",
+          "hash": "9UGw4gTDBQb8pnJgwsf6Lw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Associate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Associate.html",
+          "hash": "rJJPh7iIdjEhnbV3Kyrrbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AssociateCommissionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AssociateCommissionResult.html",
+          "hash": "7+PyF0e1G6N5EluTp+sVqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Autoship.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Autoship.html",
+          "hash": "+vZwsFBJ7W6JOKDRlmv71g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AutoshipType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AutoshipType.html",
+          "hash": "HflZQQa9SpkCrpVXIDUgpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AuxiliaryData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AuxiliaryData.html",
+          "hash": "VE5ALIr2MnXVFcn/8jGAZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.AvaliableComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.AvaliableComponent.html",
+          "hash": "rcslxTDgTkfMM2agEzhpxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Bom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Bom.html",
+          "hash": "0km/PRcwPDHANOb06j8ZAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.BomGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.BomGroup.html",
+          "hash": "sLDA732IiUxsrVpRfutNrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.BonusDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.BonusDetail.html",
+          "hash": "BCvLMrVMXcKK8CMhPdy/3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.BonusPayStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.BonusPayStatus.html",
+          "hash": "tdVYBedssX831AiHUcTCkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CSSColors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CSSColors.html",
+          "hash": "aG3btYKEBxy7CvH4ZQW1FQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CSSImagePaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CSSImagePaths.html",
+          "hash": "ZlMGHDAJK94K76c5YNJgAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Category.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Category.html",
+          "hash": "BDdlGuD99/MVtIC18FNiTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionCheck.html",
+          "hash": "3YovN8+n+VgVXNpwwKnrjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionCheckDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionCheckDetail.html",
+          "hash": "R0JNWvF8VcHGpfi5B5eSZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionHistoryDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionHistoryDetail.html",
+          "hash": "1SO2xyOPEzNy4PffG2TFaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionHistorySummary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionHistorySummary.html",
+          "hash": "8xBoE/TD0YYlc6rme4OABA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchant.html",
+          "hash": "FHlc9Hr3WdrAtdazHjHT3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantAccountFields.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantAccountFields.html",
+          "hash": "eqbvDzSEbEQAP3ydYc7e1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantBase.html",
+          "hash": "ijhq52mRzrA9fLkiXYJlXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantCustomField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantCustomField.html",
+          "hash": "dpkDB6qBw+VnIYTw2sNVhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionOverride.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionOverride.html",
+          "hash": "1G+v4lAXmVUW/To1Sotgww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPayment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPayment.html",
+          "hash": "QtsIDraYX8uyMqaM76izpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentDetail.html",
+          "hash": "iqaLKdzJp+cv4dJhfZpPyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResult.html",
+          "hash": "mE5yXJXDFAoihkiq0KgMWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResults.html",
+          "hash": "nYOhGMKdo5dyfqYhqbTSRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentSplit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentSplit.html",
+          "hash": "vAJclhP9n3sMg0m5GkcldQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentStatus.html",
+          "hash": "eNy52XQbtYUKTPQcIDtpPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionRuleResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionRuleResult.html",
+          "hash": "j4o4wQcCMaTfvz/K827ldA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommissionStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommissionStats.html",
+          "hash": "UYv/+rn3tHn3vdUhH7QelQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CommittedDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CommittedDetails.html",
+          "hash": "hTENjqnNT6xXsZaCJ/psVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Company.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Company.html",
+          "hash": "2Yd4FI8gKI3lkxiYUJqpEA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Contributor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Contributor.html",
+          "hash": "jQpcxGfJ5pbw2BnkYqsTOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Country.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Country.html",
+          "hash": "G2z1VEBWj7EDGNdXxeaEDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CountryLanguage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CountryLanguage.html",
+          "hash": "SfcZF6154ZA3LsYQQ/NCvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Coupon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Coupon.html",
+          "hash": "hN4a1wpUYhHBR4f7r8jZJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CouponAdjustedVolume.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CouponAdjustedVolume.html",
+          "hash": "p+HbwXL4zFHpeFPJ+YuAHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CouponType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CouponType.html",
+          "hash": "JORaaDCjJtKYKnqe7M6aPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Currency.html",
+          "hash": "QLrE9j73TaprR7dg93/3Uw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CustomFields.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CustomFields.html",
+          "hash": "sUauCh2krqfXANGeaNhj7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CustomTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CustomTree.html",
+          "hash": "uW58RAinFrg2TDgTP/VBBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.CustomVolumeSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.CustomVolumeSource.html",
+          "hash": "kDFdZVX5FMIeq/JQsr29ZA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.DelayedMoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.DelayedMoneyInMerchant.html",
+          "hash": "j4KmmFTu+LeArlOzEjoobw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Discount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Discount.html",
+          "hash": "Fc4pX5cY3zn7p/uVxvgVgw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.DiscountType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.DiscountType.html",
+          "hash": "Br6GfsoNGFL/mAfDDwXnrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.EmailMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.EmailMessage.html",
+          "hash": "mig19TuFBY16qvpcsqoFqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.EmailOnNotificationEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.EmailOnNotificationEvent.html",
+          "hash": "ze3vMbqciUCu75Jwt0v9/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.EnvironmentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.EnvironmentType.html",
+          "hash": "x9Dxy4cPX6GOraRpZe5gmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.EventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.EventType.html",
+          "hash": "1f1+8p0I+8XcW144bdBDIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ExtensionContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ExtensionContext.html",
+          "hash": "lKUYG2qYzixGDTE9DRNOqg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ExtensionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ExtensionException.html",
+          "hash": "wiNGc8dZ6bavGX4/8oaesA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ExternalSyncVendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ExternalSyncVendor.html",
+          "hash": "9PQxcicZzLflyYnNk+xw2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FastStartBonuses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FastStartBonuses.html",
+          "hash": "5CwsHY64NxvGAW+UYShOCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FindAssociateResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FindAssociateResult.html",
+          "hash": "XUKBMGIq99cMcyDEpSV8Fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FraudPreventionCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionCallback.html",
+          "hash": "IkUYK3NbScCI57sO4RjTkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FraudPreventionData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionData.html",
+          "hash": "e/KsL7qVesOYMhUsf8zQ6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FraudPreventionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionInfo.html",
+          "hash": "UDq1SFtLFAl4Kpsntc8qig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FraudPreventionTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionTypeEnum.html",
+          "hash": "LR2Gif09+1Knh3uLSzgmhg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.FraudReviewStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.FraudReviewStatus.html",
+          "hash": "rtSdEpcWrUJckEnOaEPqkA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Frequency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Frequency.html",
+          "hash": "3qmV/UtX2HAIj1cn6Us5Uw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.AssociatesHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.AssociatesHooks.html",
+          "hash": "B3u2eJacfFvwRT1nTTs4fw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.EnrollmentHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.EnrollmentHooks.html",
+          "hash": "HCOO6e7JZPEEhdlDrQxDcA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookRequest.html",
+          "hash": "nPE6GK5sbLh6ukljSsSkrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookResponse.html",
+          "hash": "uG08wV+HcqmZSD1IWU2SfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookRequest.html",
+          "hash": "yjqctJrKcD0mdRG9s0owCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookResponse.html",
+          "hash": "ZVC0PPI+Gfc30ynoFZijrw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookRequest.html",
+          "hash": "4puUVjybj1NzAiWTYTzarg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookResponse.html",
+          "hash": "du09jDT1k3P2Khh6a969SA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookRequest.html",
+          "hash": "5oxjCqpLoMlDy24kVTK66Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookResponse.html",
+          "hash": "Z94PYsAnxSjLizn2G9l4bQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookRequest.html",
+          "hash": "1i+UB1XWk2vKXqy21nBfRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookResponse.html",
+          "hash": "lu3KvUprvgix6QO7mfu2xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookRequest.html",
+          "hash": "ee9IsH8K1PQfjOXSZNkGJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookResponse.html",
+          "hash": "6OlivaAw8W+fN4YPTIBSgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookRequest.html",
+          "hash": "25VCefPfdYr0xUZDtoG8TA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookResponse.html",
+          "hash": "1zXmOrUpCKFLFrmYFTHYgQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.html",
+          "hash": "W2rDO2dgqYsqaheM3nMNRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookRequest.html",
+          "hash": "27LkwJ1JX/FPU7DDL3o7lQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookResponse.html",
+          "hash": "AO6dC8eyONLvSmteYfmE8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookRequest.html",
+          "hash": "MJbaZx08tocJ0wP126gAIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookResponse.html",
+          "hash": "mH/i2il6IEvED9EH1vIfmg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookRequest.html",
+          "hash": "RH76ZQrUecRv4aepb3PtFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookResponse.html",
+          "hash": "/BTFooe/KhcF5bi3MeheAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookRequest.html",
+          "hash": "a9oumSHYLOH2v82PSDGpGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookResponse.html",
+          "hash": "eKKn+AkJ9+syS/aK0jhbBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookRequest.html",
+          "hash": "AUPND4XHGbzI8/qANvBvvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookResponse.html",
+          "hash": "j9dEuSrVphSti8PBty63tg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookRequest.html",
+          "hash": "Lw5lZISwEdpqFw5vL9fKRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookResponse.html",
+          "hash": "rIFsI/DJgtc+oAAqUsAQiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookRequest.html",
+          "hash": "cED0wrWHQxySqyCFMRaX9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookResponse.html",
+          "hash": "p8V3pFpeFX2CRAj5Mka21A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookRequest.html",
+          "hash": "3XyhXiDpe/KG6u10QsDG2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookResponse.html",
+          "hash": "KT/kesNJwXnnza5dCRLVxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookRequest.html",
+          "hash": "lT2Y0vmPUMG52y6KqSLOEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookResponse.html",
+          "hash": "59M3je7m9b1MoAj7eIO10w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookRequest.html",
+          "hash": "ux9UTjnLp5PoZ07BH+AIPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookResponse.html",
+          "hash": "5r4qs/rzAOMHf/2PP0J9EA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.NotificationHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.NotificationHooks.html",
+          "hash": "Xo1sAMsYW9TEPrmPkLevJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.html",
+          "hash": "kXEeiZifW5romwT5jb564Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookRequest.html",
+          "hash": "BSZCnzrb4KEo6iZTipj6rw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookResponse.html",
+          "hash": "FGWz07PmKKhZLps7z1UFSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookRequest.html",
+          "hash": "Pwl7NHl/b38V3PU81ICuKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookResponse.html",
+          "hash": "CY5ZFOq+5cOO3/7RiLj4Fw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookRequest.html",
+          "hash": "VpRNmCHknEQUPQcqdULxMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookResponse.html",
+          "hash": "+/zCz0j8sf3ZAUUMgMo6lg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookRequest.html",
+          "hash": "bL7oqLi6Ti09JVcwdlXvSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookResponse.html",
+          "hash": "HEDzpTjsNcXSsZ2i7GsvgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.html",
+          "hash": "JQZOxe6n76CfhkYqXcVCfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookRequest.html",
+          "hash": "1E2VQEHm4eBpNPk01FHRlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookResponse.html",
+          "hash": "QtDnIxewqbqOln8H1rV9Iw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.AutoshipHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.AutoshipHooks.html",
+          "hash": "V+/cg9KUqPvWgXbdkSTDsg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookRequest.html",
+          "hash": "ux0jE8T5rdtA9UVc3hGliQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookResponse.html",
+          "hash": "hzNFBiiY0xA5B2AScRKBJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookRequest.html",
+          "hash": "Ra3PxkK5+stnHLSLi/YXew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookResponse.html",
+          "hash": "/y2BdGANziQ4CY72JRijZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookRequest.html",
+          "hash": "BNPnVPg8QtEX0ADG3NZxAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookResponse.html",
+          "hash": "vUwONvSR+PjmeCV+8x+Gsg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookRequest.html",
+          "hash": "4gOZu38FETAT29LX2BIEsA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookResponse.html",
+          "hash": "9OzOy+3L2pPAxfdjLpfcjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookRequest.html",
+          "hash": "v8qWPTNEfXOSqj/Wd8jW3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookResponse.html",
+          "hash": "PHPk70tqrnFatxgC9zCsVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookRequest.html",
+          "hash": "b067jH6Gq3Kahz0SWrD6qA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookResponse.html",
+          "hash": "r5OTd40oef+oYSZrg2FKSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookRequest.html",
+          "hash": "3z0mcLov1XpypfB1raTt5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookResponse.html",
+          "hash": "pC61Z/g4bI6qg0FKhikteQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookRequest.html",
+          "hash": "TcVmGwoEe9ik8mqWYUELtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookResponse.html",
+          "hash": "+0uxkPXURvu352FUTatqYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.html",
+          "hash": "Xry0CEH3og6gkxQNuPam8g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.AfterCommissionBonusDetailsHookModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.AfterCommissionBonusDetailsHookModel.html",
+          "hash": "3HLvYRHcwMDqwt793PYPUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookRequest.html",
+          "hash": "zCLOxhEQCsI9aVE9W3euXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookResponse.html",
+          "hash": "8khco36zcsM9YsRmmmfdOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookRequest.html",
+          "hash": "OolBF03Iwgi/dEJshEY35w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookResponse.html",
+          "hash": "22WLO9cQxiMt4ElCgI7mEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CommissionHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CommissionHooks.html",
+          "hash": "ku2X6hlkNBlfAC9D6igTKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookRequest.html",
+          "hash": "McOGvwB1H8YtiGIvEUs3Tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookResponse.html",
+          "hash": "2ZvmF1ymCvFACi5IvTPS0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookRequest.html",
+          "hash": "GQYPPYyf/c1SMVcp0vYVjQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookResponse.html",
+          "hash": "ljCMBhXwWPDG3KxJDmVq9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookRequest.html",
+          "hash": "3LqTIcRJXFnWje0HyFf4Dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookResponse.html",
+          "hash": "ioZr3ZTM6bgTMr81/oKFXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookRequest.html",
+          "hash": "NeKhHWOQD9hZ6lnv+XLuDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookResponse.html",
+          "hash": "57EOv+DEaZSGQMKmu0xa4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookRequest.html",
+          "hash": "RvDCgXVbuq7Yd/2MoTQkrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookResponse.html",
+          "hash": "gacxxZ1L4eX0Uw3BgVrtYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookRequest.html",
+          "hash": "Xi5Yo1myi0Kq2NIYbXSkVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookResponse.html",
+          "hash": "EnjCCbd2OR0cq6QuUfvu6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookRequest.html",
+          "hash": "gY0xRFyl9DkCh2Xh2WvnOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookResponse.html",
+          "hash": "Xd2nJyR63etavxh15yL3Aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookRequest.html",
+          "hash": "WtSr/Qn2t1Q+kOAeUsINXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookResponse.html",
+          "hash": "o2IuE2CZ22jSukJf+TFLIQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PeriodData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PeriodData.html",
+          "hash": "tk/PFYiD9q4ZTgb3OBKuEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PlacementDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PlacementDetail.html",
+          "hash": "/PZNQ+78nov+eu/bkJnYEA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.html",
+          "hash": "MBR6TUnFUfOMH8Ps5npQfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.AutoshipFailedRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.AutoshipFailedRequest.html",
+          "hash": "1W+dz6ie96bBsKoXIIVmIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplateResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplateResponse.html",
+          "hash": "yu+0AB+PRc4TIF97CXH39w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplatesHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplatesHooks.html",
+          "hash": "Ee7bAsLKSCcVHLPHTxenOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderFailedRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderFailedRequest.html",
+          "hash": "sM23BW8cRe4n2akC3lnjRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderRecieptRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderRecieptRequest.html",
+          "hash": "V5FeVTzvG1a7rvYhsUjj7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.PartyEmailTemplateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.PartyEmailTemplateRequest.html",
+          "hash": "PQemAMtsB7JFx9FuStgd5A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionAboutToExpireRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionAboutToExpireRequest.html",
+          "hash": "JqdmDhPGuOQd0FKCswPAIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionExpireRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionExpireRequest.html",
+          "hash": "NrS6NXVlgrmXSfinWl8c8g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeCustomerTemplateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeCustomerTemplateRequest.html",
+          "hash": "fRvpx8XAN2IJirAT/1ZwJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeDistributoremplateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeDistributoremplateRequest.html",
+          "hash": "lIp76YZ491O0RhcDO8XSjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.html",
+          "hash": "slVRDhOk2CxKSqupjF2eZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.FraudPreventionHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.FraudPreventionHooks.html",
+          "hash": "UeiccmIMN1KQe+u2LO9YfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookRequest.html",
+          "hash": "hXcvAlKM0H4KSt02wRbMDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookResponse.html",
+          "hash": "cq09H5jQxt+d8DolRLtZdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookRequest.html",
+          "hash": "zbWgv8hLjkV0czN2gVlW7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookResponse.html",
+          "hash": "R9vXVgnrSGJtHf5HvbifLw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookRequest.html",
+          "hash": "B3YwqlpqRfHf3mQo9X6F3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookResponse.html",
+          "hash": "bAqgC7iFnFvrXoNP3blENA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookRequest.html",
+          "hash": "Cf1g4Jl44S95oNHVxRsYYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookResponse.html",
+          "hash": "pf5GEQ+wrt6Aq8uV8VG8zQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.html",
+          "hash": "7Gr0Zf5esqKafUUzvl3/fQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookRequest.html",
+          "hash": "oxyObZ7QbkKEB81RUGbLWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookResponse.html",
+          "hash": "s3KaJBHKLCg+4TPfjDBH2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.OverrideDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.OverrideDelegate.html",
+          "hash": "0+j6nyi/akwdgP28R6EpRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.html",
+          "hash": "sh1n1K6V+kEKJUxjvovHpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.HookCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.HookCollection.html",
+          "hash": "VIuum8CMozrwi2LW2M89FA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook-2.html",
+          "hash": "waUxTWZ6L+0yQdzfI+Kjkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook.html",
+          "hash": "svtP9x5TzbUbxIoR8UVFxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.IHookCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHookCollection.html",
+          "hash": "rXce9e4BwR6s+R8PTBQRPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.InventoryHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.InventoryHooks.html",
+          "hash": "GkFX0wbsgnggEBtJph2Stw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookRequest.html",
+          "hash": "JmFv5WnSgZ9oz42azOCnnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookResponse.html",
+          "hash": "MKVZ3Hgr6THU8CKJFjhwBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.html",
+          "hash": "DOY2ZHfwYOva5zYZBxb02g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.FraudHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.FraudHooks.html",
+          "hash": "kiSq6sPwP89nTEgki/dRfg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookRequest.html",
+          "hash": "IDtgQPBX1XIrNRJilTWdbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookResponse.html",
+          "hash": "KFRnNV7/A/Jm6SHia1oJGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.KountHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.KountHooks.html",
+          "hash": "JZAzt1q5x9HsJqN7wiixKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.html",
+          "hash": "KCKYVvBVEdbSg7ex+ukI4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.html",
+          "hash": "DoGQPlpGnOCuQxuTMHUdSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MerchantHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MerchantHooks.html",
+          "hash": "VKraAKCTPnavBOII/1fzZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookRequest.html",
+          "hash": "hEdDiW+tgTsdd1bioLsYjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookResponse.html",
+          "hash": "NTa3gCPupr/Hdenq73Tjiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.EmvioHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.EmvioHooks.html",
+          "hash": "ddZy+o1W9vFnbNgeR3PMlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookRequest.html",
+          "hash": "U+sYrNLhR/O/WQgbI33tPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookResponse.html",
+          "hash": "m8njQ0upDuAcgag38Xc/qA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ProcessingOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ProcessingOptions.html",
+          "hash": "TN9uBGvBentDKpl0y2Z7wg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.html",
+          "hash": "lXh1g6hWK+iidkZOkTrx2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookRequest.html",
+          "hash": "G9RDZeFyHLn3pOzMJRL+TQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookResponse.html",
+          "hash": "9t9t91a4r6t7HVHR+E+IJw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletAction.html",
+          "hash": "hYFoEjJMyhv5lKs2xFbtWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletHooks.html",
+          "hash": "seX3CEeiFQ8u9XNW51SPiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.html",
+          "hash": "sSOY5xa5D0jkhe3FIBJ/Xg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.MoneyInHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.MoneyInHooks.html",
+          "hash": "v1dYXrJcbHSHghD27GKb8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.html",
+          "hash": "u1yWEgUBte5Geac+Id1eGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchHooks.html",
+          "hash": "+EqoMHyTkvjhnkeOuFekrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookRequest.html",
+          "hash": "0sTVPeSiaew1gUYKLyXT2A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookResponse.html",
+          "hash": "NiXY0XAruDFdpUKyCgQ44w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookRequest.html",
+          "hash": "4fuoVfjA/gu83bpNhWpZCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookResponse.html",
+          "hash": "WEKbOyGGi7ueaVKkbx8S1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookRequest.html",
+          "hash": "6KFdduGyAhTWga8Fjusx0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookResponse.html",
+          "hash": "CTHlZw8W6AqzM0LVH4FyaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.html",
+          "hash": "BwwP/TvpbYmKBbUP9Zzqiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.MoneyOutHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.MoneyOutHooks.html",
+          "hash": "Yecxvls5ti4MovRe8FnESg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookRequest.html",
+          "hash": "yhu6QeQPhkIGW35IsLiEIQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookResponse.html",
+          "hash": "C3ky59qOKzWls0GI5Ega/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.html",
+          "hash": "lPQGLLCfEi3voJMzafwcRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.html",
+          "hash": "LB89Xq4uU2AvZ1GTIzIzVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookRequest.html",
+          "hash": "VE8dpE32nC7b2Gz8n5UnoA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookResponse.html",
+          "hash": "N0hC2ADwcq6S48CR02FN0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookRequest.html",
+          "hash": "lIoz9mWRSgUoqT8PGJ5s1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookResponse.html",
+          "hash": "5/hME3Hq7fPzINJjyLz5gQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookRequest.html",
+          "hash": "lbFXXAgmRCnNcGzoJP2QHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookResponse.html",
+          "hash": "H3T0i1ws/nW6v+9gzhKlGQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookRequest.html",
+          "hash": "I6ASWUVZ6uvjwmqu3c8tUA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookResponse.html",
+          "hash": "BAFdPjYSgOmINzPTpDZPfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookRequest.html",
+          "hash": "0h5wMoyO6coWGc9/XCIADA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookResponse.html",
+          "hash": "A9o6Kj/yTkMzJ2jFGeurkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookRequest.html",
+          "hash": "RWNYCFzvFUBZK3oVsoniRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookResponse.html",
+          "hash": "68zC5IIapvwbkzOUKUMQSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookRequest.html",
+          "hash": "AVF5HTEkI+UQhGwJ4Pyzcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookResponse.html",
+          "hash": "dwvH/nYh1564sWtGilVBcQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.OrdersHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.OrdersHooks.html",
+          "hash": "IOwhiff1fgY6ucDXlJQrtg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookRequest.html",
+          "hash": "/1SWiyyU1aeLKgS81LgHkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookResponse.html",
+          "hash": "zXoRiso+znMoYIqN2datLg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.PackagesHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.PackagesHooks.html",
+          "hash": "aTiw/YNt5Y2wBS/4l3nR5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.html",
+          "hash": "B/QefrRlj0w/F0hNuGIKUA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookRequest.html",
+          "hash": "xi/mB4QHVH2NSkGK9zbPbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookResponse.html",
+          "hash": "23FLTzf6bvACz9XWblzs+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookRequest.html",
+          "hash": "mv/mldtTb2UwOtv/Gg77WA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookResponse.html",
+          "hash": "lVdRKZYr3cz0NoWHKvDViQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookRequest.html",
+          "hash": "KYH4ZEZhJ/xTPpDsGGHuzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookResponse.html",
+          "hash": "anBWQnHCbATgq+BR665YUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookRequest.html",
+          "hash": "HMI94fnB9fmctXaidFkkGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookResponse.html",
+          "hash": "TK6wd0d6dpzbRnahaOsf+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.ShippingHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.ShippingHooks.html",
+          "hash": "NGZQ08+h9e2JecIn1a888A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.html",
+          "hash": "w72HbejoY9XZIDWHJLP22A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookRequest.html",
+          "hash": "9/sCSaqwy/2qU0SufoseSg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookResponse.html",
+          "hash": "i/H2izi83k40t/9E2p97CQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.html",
+          "hash": "t4unwmJpODhKGvWPqGpywA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.SettingHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.SettingHooks.html",
+          "hash": "mgNT/9IKiYHO9/EjSNHldg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookRequest.html",
+          "hash": "rTIQ104Gc3pE91q2LV6dJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookResponse.html",
+          "hash": "Asyv6kQLzEHJeldaNaHdCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookRequest.html",
+          "hash": "yXwVtmjaXxcDaKApt4DKRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookResponse.html",
+          "hash": "em8IEjh5vPStkMHWep0gMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.TaxHooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.TaxHooks.html",
+          "hash": "Vpw8Njs+fM33WMvwQa+6zA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.html",
+          "hash": "g4ju10fv5lwytU55DVHlEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Hooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Hooks.html",
+          "hash": "ItREssT+xHrCDzzv5MXIaQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ICommissionMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ICommissionMerchant.html",
+          "hash": "ZNqDgWmPXt7dOs8x8kV8dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.IExtendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.IExtendor.html",
+          "hash": "O3bD7I37OwFIzaVswQCgDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.IExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.IExtension.html",
+          "hash": "FEv3emJv/TGXTgNKp0CgWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.IMoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.IMoneyInMerchant.html",
+          "hash": "qfrnuQkV6OQbmCKTpvYdVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Iframe.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Iframe.html",
+          "hash": "US34LNutk/npCW96MoPsIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Inventory.CategoryTranslation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Inventory.CategoryTranslation.html",
+          "hash": "3wG0PywFv2N94TasLI6U9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Inventory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Inventory.html",
+          "hash": "H001UErvSdmjVWarKi4qBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.InventoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.InventoryItem.html",
+          "hash": "OJ/LnOTIoH38sIoUMGE98g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ItemImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ItemImage.html",
+          "hash": "KDtnc8dJ59HZb562Rm/j/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ItemOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ItemOption.html",
+          "hash": "jS7aqhacFDJHhDoWetYT0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ItemOptionKeyMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ItemOptionKeyMap.html",
+          "hash": "+SSmaoxuOSgpNnlrluAQ/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ItemOptionValues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ItemOptionValues.html",
+          "hash": "OJP/JQWE4H5l+PE8ru+7BA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.KPIReEntryRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.KPIReEntryRule.html",
+          "hash": "brVcN8AYHJnUo7JS2VFV3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Kpi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Kpi.html",
+          "hash": "7p9I75OE/mZnX0in/x+TWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.LanguageMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.LanguageMap.html",
+          "hash": "vOqtABKHDtLVSY0lJkVDOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.LegName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.LegName.html",
+          "hash": "FqxJIsxid2xC+hvP6fjsLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.LineItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.LineItem.html",
+          "hash": "/POuJ644ueuZxDFzwAvxqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.LineItemOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.LineItemOption.html",
+          "hash": "mcQdKzULhJwn4V1uE7+eVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.LineItemPrice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.LineItemPrice.html",
+          "hash": "bJrQJjHLFQ4uCUSevpThSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Localization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Localization.html",
+          "hash": "73M6456BzrryfpkqV+zWrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Location.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Location.html",
+          "hash": "Z7Io0VwM6RD3KvhM/PDWaw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Merchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Merchant.html",
+          "hash": "oOsoyC+gDkxsSrSu7f76Jw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.MerchantInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.MerchantInfo.html",
+          "hash": "0ZTJeF2lGQ7EEemBx4Jkxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.MoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.MoneyInMerchant.html",
+          "hash": "0kCfQEejmnXqvowRT+3Ciw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.MoveOrderMessageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.MoveOrderMessageType.html",
+          "hash": "O1R1Q2dDnAmE6jz08Z1B7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.MoveOrderPermission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.MoveOrderPermission.html",
+          "hash": "Szpxxg8Nz9ErH9r7gzydBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NewOrderDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NewOrderDetail.html",
+          "hash": "xf+rxtH0x7ej6QBTK9mLBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NewPayment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NewPayment.html",
+          "hash": "pvYxawFop0bLsGKh7pGCVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NewPaymentMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NewPaymentMethod.html",
+          "hash": "bpfowYQNZXmYmBYtwLYVdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Node.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Node.html",
+          "hash": "+e1HR7NJzjv3XZ9vhXP3PQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NodeDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NodeDetail.html",
+          "hash": "Drmv8NfqDhCiP1tYXXisuQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NodeId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NodeId.html",
+          "hash": "aHbk4yj5F7Cy7MrKXj5ARA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NomenclatureInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NomenclatureInfo.html",
+          "hash": "ReDkyCCRjC4GaRsuvcLwZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.NotificationEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.NotificationEvent.html",
+          "hash": "BPmywY9bPnpEPdwb0EAf4g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OnFileMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OnFileMerchant.html",
+          "hash": "Scy0SNG92tN44ObE3vFFAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OnFileProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OnFileProfile.html",
+          "hash": "4JIAc8VzsJRQMZeRy7+imA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Order.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Order.html",
+          "hash": "lgbePJ4d5OT2NCGKWWjFgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderCoupon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderCoupon.html",
+          "hash": "AaQf0VhhVBU7IWi1+h9Ycw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderCoupons.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderCoupons.html",
+          "hash": "+ik3rSY1p3bnneR7HLYbBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderLineItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderLineItem.html",
+          "hash": "rMbzpQChWy0GlV10EhTFNA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderPackage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderPackage.html",
+          "hash": "9Ows/EjZeeoNMLyGW7WfzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderPayment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderPayment.html",
+          "hash": "2FmJ5tJnRsTyBQBD5YYIGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatus.html",
+          "hash": "y7jXjNd2LoSE41F5QGsSlQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatusUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatusUpdate.html",
+          "hash": "TWoul9u8SGGRctvEi9Q4DQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderStatus.html",
+          "hash": "VDNsTF5mNJuKQYTqbgtqvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderTotal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderTotal.html",
+          "hash": "3ARhv3ir3C1ruC/GxT+IhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OrderType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OrderType.html",
+          "hash": "KyW1r3C+rwuSBtnrrlx0mg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.OverridePeriod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.OverridePeriod.html",
+          "hash": "gDVMxNV8lwQtnH5ShHNLkQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PackageStatusUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PackageStatusUpdate.html",
+          "hash": "/S8Lhb7+PYFg27a5pgTj1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentMethod.html",
+          "hash": "rEhZA0g9ZfktvC30nl1ViQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentProcessStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentProcessStatus.html",
+          "hash": "bazx4UzAw5+CW3msY6Cl+Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentResponse.html",
+          "hash": "YnDbyeITjfQrEZQQUVBCGQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentResult.html",
+          "hash": "z6vuWxkHTk66dVNA2z901A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentResultDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentResultDetail.html",
+          "hash": "L5w0bIIJYKIbA8pxC6P0yQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PaymentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PaymentStatus.html",
+          "hash": "PE4SXioYXE8JODMiFhs/kA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Period.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Period.html",
+          "hash": "gGD6P4+TrE3Q+C5TKAwfMw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PeriodType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PeriodType.html",
+          "hash": "WeGbXbQPKHDjRC7aI2E07g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Placement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Placement.html",
+          "hash": "Y3iUmNzowRWMxtLNV1K6iw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PlacementAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PlacementAction.html",
+          "hash": "wFNNkMvAFswu9qlEErDVNQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.PointsItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.PointsItem.html",
+          "hash": "Z+dDi4mFrxrES/a99q1uvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Rank.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Rank.html",
+          "hash": "4xap1hAIsrFFrfPgzpjiXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RankDate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RankDate.html",
+          "hash": "D9yUsJDeAnblhb41Yh4D3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RankDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RankDetail.html",
+          "hash": "9pGG2NPKalXmyy9NyVlLOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RankDetailGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RankDetailGroup.html",
+          "hash": "jfDjlgV3gsLMqR12v62/gg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RankSummary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RankSummary.html",
+          "hash": "Yszxb6lAmwNB7rtGqsO4bw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ReEntryRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ReEntryRule.html",
+          "hash": "NPgXZNEVIusxWTTHxnDN/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ReEntryRuleType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ReEntryRuleType.html",
+          "hash": "lAuiD4c56lAYblqdurVv3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ReceiveLineInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ReceiveLineInfo.html",
+          "hash": "tdOsrbWyT/3TLlqGb0JC7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RedirectMoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RedirectMoneyInMerchant.html",
+          "hash": "SxVMEFlOb/Flb3HB7wLJTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Refund.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Refund.html",
+          "hash": "+lm9UMvlKo0aOyIYWxcH1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Region.html",
+          "hash": "302TREq7EvB+XsViCDuqWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RegionLocale.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RegionLocale.html",
+          "hash": "/Fo1nlmIhjSuDn/bj77Fcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RegionMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RegionMapping.html",
+          "hash": "9Ti2uXRj49l2TU7tXjqPBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RequestBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RequestBase.html",
+          "hash": "/LH2AdNi9jPdXaapJX0hJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RetryRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RetryRule.html",
+          "hash": "aV+xMSJTvXvhwhQoG6o2Qw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RewardPointDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RewardPointDetail.html",
+          "hash": "zyk+2hAmMU6ZGxXtd0Rhqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Rma.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Rma.html",
+          "hash": "EX61RfviYzyX9VxFAP/rYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.RmaLineItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.RmaLineItem.html",
+          "hash": "Siqjp04apH22AW7ZJ2ZfOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Routing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Routing.html",
+          "hash": "sidG/4OrjY+6gOSinKlWlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SaveCouponResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SaveCouponResponse.html",
+          "hash": "XMguzxNDcXu8SM5zhSXX9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SavePaymentForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SavePaymentForm.html",
+          "hash": "Ld3mIavZCKOfCeb8M5AZiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SavePaymentMerchantInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SavePaymentMerchantInfo.html",
+          "hash": "BDE/F5w0AM053HV1dWCflw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html",
+          "hash": "QX1AMPTEH9mJUdkTuMyCzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IAddressesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IAddressesService.html",
+          "hash": "pbEKeVqGFKUbEHQOpxWlxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IAdjustmentService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IAdjustmentService.html",
+          "hash": "+TqrxvAgPM4RUAnrcyA/ug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IAssociateService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IAssociateService.html",
+          "hash": "r4l6P5y4ubEz1+TVjHU5RA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IAutoshipService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IAutoshipService.html",
+          "hash": "cbQGJ6oKzAtQKTAOGNdr2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IBomService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IBomService.html",
+          "hash": "2rUhH5OsN5ywzaHCxvDBcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICategoryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICategoryService.html",
+          "hash": "g/r0NYaW+LXL6vMAO9ou+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICompanyService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICompanyService.html",
+          "hash": "pvRmhrPitUbD+H/iGV//9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICountryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICountryService.html",
+          "hash": "/pJL7zvpXihEcHp7k/Xxjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICouponService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICouponService.html",
+          "hash": "h3uhgXhgGDdkmTa982viEA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICurrencyService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICurrencyService.html",
+          "hash": "FEiMSp0khU+UE6LzAIGF0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICurrentUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICurrentUser.html",
+          "hash": "7Bbx9XtymZEHDocby+CGKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ICustomTreeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ICustomTreeService.html",
+          "hash": "P9+ymw5PKPplzgU91hWDYw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IDataService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IDataService.html",
+          "hash": "BjgBlG1waJmPmyS3KWSwvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IEmailService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IEmailService.html",
+          "hash": "qfv+qX2sbuCWsUyv4ZufXA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IEnrollmentService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IEnrollmentService.html",
+          "hash": "SKLDJaI6AmVd3RaByGnQtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IEventService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IEventService.html",
+          "hash": "PBl/CInhMeFHBkUgnUgvRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IHistoryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IHistoryService.html",
+          "hash": "MjBaFAtyE2kdk7Ym8VZSPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IItemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IItemService.html",
+          "hash": "wewclIiQYLGp88hnJkZT1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ILoggingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ILoggingService.html",
+          "hash": "JbYVEwjmfCSDhR4sl+/QAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyInService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyInService.html",
+          "hash": "IvoC03oKMqgbVv5aX8y6sw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyOutService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyOutService.html",
+          "hash": "uGhFZkkpmhOOp6Cpdf8HFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.INotificationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.INotificationService.html",
+          "hash": "nqEaQ7+S8raRSgXvtdUOsQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IOrderService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IOrderService.html",
+          "hash": "GihSaBRTlXLdrPH9x7tLuA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IOverrideService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IOverrideService.html",
+          "hash": "c9Ae4mIF96EmYJPRtLWosQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessDataService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessDataService.html",
+          "hash": "jf6mAa3k9BVGPym3x3YMUA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessingService.html",
+          "hash": "6xrVMXju2NucDD07vHP68Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IPeriodService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IPeriodService.html",
+          "hash": "gdZl3sKIVxYWRDnkqpqO9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IRankService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IRankService.html",
+          "hash": "UZVB0hp71v52lzxdqMefnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IRegionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IRegionService.html",
+          "hash": "MgwOscklIgn0/LTfOYNpvQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IRewardPointsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IRewardPointsService.html",
+          "hash": "hdPgD+P7eTV+3+VeDi12sg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IRmaService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IRmaService.html",
+          "hash": "G7BCpsuCK/TpCd5FAuiJHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ISettingsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ISettingsService.html",
+          "hash": "FqKZiSYMUGWTUbFQ1RYJpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IShippingService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IShippingService.html",
+          "hash": "ZEjddMuaJOOAtiuowZ2JyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ISourceService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ISourceService.html",
+          "hash": "7jkYEAKuQB15x1Eubc+few=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IStatsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IStatsService.html",
+          "hash": "fz8/1wvr71cFCl0dT61UtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IStockLevelsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IStockLevelsService.html",
+          "hash": "1EqPztzHA4HGBHncw9+Owg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IStoreService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IStoreService.html",
+          "hash": "OZbMj8Kf/P2YhkZKQTqe0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ISubscriptionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ISubscriptionService.html",
+          "hash": "A3nZGbrl+Gcb4BPB8EOdIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ITaxService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ITaxService.html",
+          "hash": "EY9cY1tjvuIKYT/W2l5uPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ITicketService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ITicketService.html",
+          "hash": "IAFU3PswVfI3gAWyTZK8kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.ITreeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.ITreeService.html",
+          "hash": "8ZFO88kLkT2ewTWQ0rmXGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IUserService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IUserService.html",
+          "hash": "hY/QqN6L0GccDoUpdK6+cQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.IWebsiteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.IWebsiteService.html",
+          "hash": "J4pVHo7J8zSkWZthHHqR/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Services.html",
+          "hash": "+2u89t8cbmdVOlYSBTcPpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ShipMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ShipMethod.html",
+          "hash": "TNc1BilqGo4XyPmZMY00+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ShipPackage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ShipPackage.html",
+          "hash": "KjpbUyTL1ye1+4PPhkuA+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ShippingTaxOverride.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ShippingTaxOverride.html",
+          "hash": "1Uf1z4wgFImwp14h5i69sA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ShippingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ShippingType.html",
+          "hash": "QDVjOwpUPz0Z+HPvMc5dTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SinglePaymentMoneyInMerchant.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SinglePaymentMoneyInMerchant.html",
+          "hash": "zCGBeU5wQ0l19sD3Xa/ZEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SocialInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SocialInfo.html",
+          "hash": "xcZc7YtsiqAuvChumJAWpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SourceOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SourceOrder.html",
+          "hash": "Llp+xa1TpWLUYL3Env0Vwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.State.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.State.html",
+          "hash": "BqU1cGBl/+xKdRI9O6eaag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.StockAdjustment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.StockAdjustment.html",
+          "hash": "dZaOGj7pM+nPHno/s6rxQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.StockLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.StockLevel.html",
+          "hash": "ZecgxdAjtTzKPhtFoTJeYQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Store.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Store.html",
+          "hash": "Odfti9y7p3tpDUFlS+3sDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.StoreType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.StoreType.html",
+          "hash": "Cd/LmEGxgg2tZouW3J+Clw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Subscription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Subscription.html",
+          "hash": "qMyyGQW1r9FF7eyPFnrKXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SubscriptionAutoshipSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SubscriptionAutoshipSettings.html",
+          "hash": "t04nLx5+OJcNCVA9h8oUTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SubscriptionItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SubscriptionItem.html",
+          "hash": "0l5N901wu3GT3F9ZQudAaA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.SubscriptionPeriodType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.SubscriptionPeriodType.html",
+          "hash": "eqXZ5OaDdTYBzGkaj877vg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TaxLineItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TaxLineItem.html",
+          "hash": "rlnlHRlXozEELX8UcmEO4g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TaxProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TaxProvider.html",
+          "hash": "Pi0JUX3wWA9u10nVW/730w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TaxResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TaxResult.html",
+          "hash": "gvIPIWMSxyB/hw60xXvKZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TaxResultDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TaxResultDetail.html",
+          "hash": "Kc52UgsA64NXxxRs58oSyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TaxResultItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TaxResultItem.html",
+          "hash": "cJV6jEUbG2uFoMALeT5InQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TreeFullReEntryRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TreeFullReEntryRule.html",
+          "hash": "Pd5iFeuS/IKIB9v4njYxeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.TreeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.TreeType.html",
+          "hash": "y9SuJ18xoG6c4Ewq7Dj10w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.UpdateOrderInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.UpdateOrderInfo.html",
+          "hash": "FutraYPXtzcKDGwh8n4OJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.UpsertCouponResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.UpsertCouponResponse.html",
+          "hash": "HSuSJyyFqA8iocGwdDSqsg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.User.html",
+          "hash": "ucTE7VBybVl7KB+8ulCG4g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.ValidationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.ValidationResult.html",
+          "hash": "iaJe1+r7I+nk3qvMVxdUTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.VolumeSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.VolumeSource.html",
+          "hash": "uCtHor/bKUEO+Ff8Lx56zw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.WebsiteInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.WebsiteInfo.html",
+          "hash": "fzCgQD8+owOfcnEi0J3fsQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.html",
+          "hash": "uYA/xTOtGknUv9rLsUV2dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "TrIN740DwgJRtwT9aWTuWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "BPEWcTQsOtYKpdQS0f+iug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details1.html",
+          "hash": "ZTjwC9LqeuBoUTYtYKMzxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details2.html",
+          "hash": "ZGmt6PDFwWTKkxkCKrc/LA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "sIjYZtlGruqfjt3uFLp/IQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "zv/QyoV7jR7T3oGKrHHxvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "rHXf8cx3VNmF3X8IhXZTRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "2lOJCuuPm7Jh0LddWjT/Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 5
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 445,
+          "skipped_file_count": 445
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
