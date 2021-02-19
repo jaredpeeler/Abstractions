@@ -1,4 +1,4 @@
-The **Abstraction Layer** is a public [NuGet](https://www.nuget.org/packages/DirectScale.Disco.Extension.Abstractions/) package. The Abstraction Layer contains a host of methods created by DirectScale that you can use in your own custom code.
+The Abstraction Layer contains a host of methods created by DirectScale that you can use in your own custom code.
 
 For example, when creating a custom API:
 
