@@ -2,7 +2,7 @@ The **Abstraction Layer** is a public [NuGet](https://www.nuget.org/packages/Dir
 
 For example, when creating a custom API:
 
-```
+```csharp
 namespace integration.Api
 {
     public class TestCustomSources : IApiEndpoint
@@ -10,7 +10,7 @@ namespace integration.Api
         private readonly ISourceService _sourceService;
 ```
 
-This snippet inherits from [IApiEndpoint](xref:DirectScale.Disco.Extension.Api.IApiEndpoint) and uses [ISourceService](xref:DirectScale.Disco.Extension.Services.ISourceService). Click each link to learn more.
+This snippet inherits from [IApiEndpoint](xref:DirectScale.Disco.Extension.Api.IApiEndpoint) and uses [ISourceService](xref:DirectScale.Disco.Extension.Services.ISourceService) two interfaces available in the Abstraction Layer. *Click each link to learn more.*
 
 > [View Abstractions documentation](xref:DirectScale.Disco.Extension)
 
