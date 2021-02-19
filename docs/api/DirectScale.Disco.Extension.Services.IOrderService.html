@@ -49,6 +49,9 @@
                 
                 <ul class="nav level1 navbar-nav">
                       <li>
+                          <a href="../api/DirectScale.Disco.Extension.html" title="Abstractions Documentation">Abstractions Documentation</a>
+                      </li>
+                      <li>
                           <a href="https://apigateway.directscale.com/" title="API Documentation">API Documentation</a>
                       </li>
                       <li>
@@ -628,6 +631,15 @@
                           </li>
                           <li class="">
                             <a href="DirectScale.Disco.Extension.WebsiteInfo.html" title="WebsiteInfo" class="">WebsiteInfo</a>
+                          </li>
+                        </ul>  </li>
+                    <li class="">
+                      <span class="expand-stub"></span>
+                      <a href="DirectScale.Disco.Extension.Abstractions.Tests.html" title="DirectScale.Disco.Extension.Abstractions.Tests" class="">DirectScale.Disco.Extension.Abstractions.Tests</a>
+                        
+                        <ul class="nav level2">
+                          <li class="">
+                            <a href="DirectScale.Disco.Extension.Abstractions.Tests.Tests.html" title="Tests" class="">Tests</a>
                           </li>
                         </ul>  </li>
                     <li class="">
@@ -1521,7 +1533,9 @@
   <h3 id="methods">Methods
   </h3>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=32">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_CancelOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.CancelOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_CancelOrder_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.CancelOrder(System.Int32)">CancelOrder(Int32)</h4>
   <div class="markdown level1 summary"><p>Voids <code data-dev-comment-type="paramref" class="paramref">orderNumber</code>.</p>
@@ -1571,7 +1585,9 @@
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=159">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeAcceptedOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeAcceptedOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeAcceptedOrder_DirectScale_Disco_Extension_Order_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeAcceptedOrder(DirectScale.Disco.Extension.Order)">FinalizeAcceptedOrder(Order)</h4>
   <div class="markdown level1 summary"><p>Indicates existing <code data-dev-comment-type="paramref" class="paramref">order</code> has completed successfully. It's volume will now count towards commissions and items will now be shipped.</p>
@@ -1605,7 +1621,9 @@ If this method is called, <a class="xref" href="DirectScale.Disco.Extension.Serv
 One case where this method might need to be called, is if an external merchant needs to mark orders as paid and complated.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=168">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeNonAcceptedOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeNonAcceptedOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeNonAcceptedOrder_DirectScale_Disco_Extension_Order_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeNonAcceptedOrder(DirectScale.Disco.Extension.Order)">FinalizeNonAcceptedOrder(Order)</h4>
   <div class="markdown level1 summary"><p>Indiates that an existing <code data-dev-comment-type="paramref" class="paramref">order</code> has completed unsuccessfully. It will now be visible as a declined order.</p>
@@ -1639,7 +1657,9 @@ If this method is called, <a class="xref" href="DirectScale.Disco.Extension.Serv
 One case where this method might need to be called, is if an external merchant needs to mark orders as declined.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=178">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeOrderPaymentStatus_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeOrderPaymentStatus*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_FinalizeOrderPaymentStatus_DirectScale_Disco_Extension_OrderPaymentStatusUpdate_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.FinalizeOrderPaymentStatus(DirectScale.Disco.Extension.OrderPaymentStatusUpdate)">FinalizeOrderPaymentStatus(OrderPaymentStatusUpdate)</h4>
   <div class="markdown level1 summary"><p>Updates the result of a specific <a class="xref" href="DirectScale.Disco.Extension.OrderPaymentStatusUpdate.html#DirectScale_Disco_Extension_OrderPaymentStatusUpdate_OrderPaymentId">OrderPaymentId</a> to the values in <code data-dev-comment-type="paramref" class="paramref">orderPaymentStatusUpdate</code>.</p>
@@ -1688,7 +1708,9 @@ One case where this method might need to be called, is if an external merchant n
 </code></pre>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=339">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByModifiedDate_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetAssociatesOrdersByModifiedDate*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByModifiedDate_System_Int32_System_DateTime_System_DateTime_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetAssociatesOrdersByModifiedDate(System.Int32,System.DateTime,System.DateTime)">GetAssociatesOrdersByModifiedDate(Int32, DateTime, DateTime)</h4>
   <div class="markdown level1 summary"><p>Get all of <code data-dev-comment-type="paramref" class="paramref">associateId</code>'s orders which have been updated between <code data-dev-comment-type="paramref" class="paramref">begin</code> and <code data-dev-comment-type="paramref" class="paramref">end</code> dates.</p>
@@ -1754,7 +1776,9 @@ Order[] GetAssociatesOrdersByModifiedDate(int associateId, DateTime begin, DateT
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=354">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetAssociatesOrdersByOrderDate*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetAssociatesOrdersByOrderDate(System.Int32,System.DateTime,System.DateTime)">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</h4>
   <div class="markdown level1 summary"><p>Get all of <code data-dev-comment-type="paramref" class="paramref">associateId</code>'s orders place between <code data-dev-comment-type="paramref" class="paramref">begin</code> and <code data-dev-comment-type="paramref" class="paramref">end</code> dates.</p>
@@ -1820,7 +1844,9 @@ Order[] GetAssociatesOrdersByOrderDate(int associateId, DateTime begin, DateTime
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByModifiedDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByModifiedDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=291">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrderByOrderNumber_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrderByOrderNumber*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrderByOrderNumber_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrderByOrderNumber(System.Int32)">GetOrderByOrderNumber(Int32)</h4>
   <div class="markdown level1 summary"><p>Gets the order details for the requested <code data-dev-comment-type="paramref" class="paramref">orderNumber</code>.</p>
@@ -1877,7 +1903,9 @@ Order GetOrderByOrderNumber(int orderNumber)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=24">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_System_Int32_System_DateTime_System_DateTime_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders(System.Int32,System.DateTime,System.DateTime)">GetOrders(Int32, DateTime, DateTime)</h4>
   <div class="markdown level1 summary"></div>
@@ -1929,7 +1957,9 @@ Order GetOrderByOrderNumber(int orderNumber)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=23">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_System_Int32_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders(System.Int32,System.String)">GetOrders(Int32, String)</h4>
   <div class="markdown level1 summary"></div>
@@ -1976,7 +2006,9 @@ Order GetOrderByOrderNumber(int orderNumber)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=21">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_System_Int32___" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders(System.Int32[])">GetOrders(Int32[])</h4>
   <div class="markdown level1 summary"><p>Gets the order details for the requested <code data-dev-comment-type="paramref" class="paramref">orderNumbers</code>.</p>
@@ -2032,7 +2064,9 @@ Order GetOrderByOrderNumber(int orderNumber)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=22">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrders_System_Int32___System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrders(System.Int32[],System.String)">GetOrders(Int32[], String)</h4>
   <div class="markdown level1 summary"></div>
@@ -2079,7 +2113,9 @@ Order GetOrderByOrderNumber(int orderNumber)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=324">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrdersByAssociateId_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrdersByAssociateId*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrdersByAssociateId_System_Int32_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrdersByAssociateId(System.Int32,System.String)">GetOrdersByAssociateId(Int32, String)</h4>
   <div class="markdown level1 summary"><p>Get all of the orders <code data-dev-comment-type="paramref" class="paramref">associateId</code> made.</p>
@@ -2142,7 +2178,9 @@ Order[] GetOrdersByAssociateId(int associateId, string filter)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=307">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetOrdersWSort_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrdersWSort*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetOrdersWSort_System_Int32___System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetOrdersWSort(System.Int32[],System.String)">GetOrdersWSort(Int32[], String)</h4>
   <div class="markdown level1 summary"><p>Gets the order details for the requested <code data-dev-comment-type="paramref" class="paramref">orderNumbers</code>.</p>
@@ -2205,7 +2243,9 @@ Order[] GetOrdersWSort(int[] orderNumbers, string sort)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetAssociatesOrdersByOrderDate_System_Int32_System_DateTime_System_DateTime_">GetAssociatesOrdersByOrderDate(Int32, DateTime, DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=108">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetPackageDetail_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetPackageDetail*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetPackageDetail_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetPackageDetail(System.Int32)">GetPackageDetail(Int32)</h4>
   <div class="markdown level1 summary"><p>Read the values for a specific package record.</p>
@@ -2249,7 +2289,9 @@ Order[] GetOrdersWSort(int[] orderNumbers, string sort)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=277">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethod_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethod*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethod_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethod(System.Int32)">GetShippingMethod(Int32)</h4>
   <div class="markdown level1 summary"><p>Gets the shipping details for a specifc <code data-dev-comment-type="paramref" class="paramref">shipMethodId</code>.</p>
@@ -2295,7 +2337,9 @@ ShipMethod GetShippingMethod(int shipMethodId)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=259">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethods*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethods(DirectScale.Disco.Extension.Address)">GetShippingMethods(Address)</h4>
   <div class="markdown level1 summary"><p>Get all possible shipping methods to <code data-dev-comment-type="paramref" class="paramref">address</code> for any store.</p>
@@ -2344,7 +2388,9 @@ ShipMethod[] GetShippingMethods(Address address)</code></pre>
   <div class="markdown level1 remarks"><p><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_System_Int32_">GetShippingMethods(Address, Int32)</a> should be used instead to ship from the correct store's warehouse.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=269">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethods*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetShippingMethods(DirectScale.Disco.Extension.Address,System.Int32)">GetShippingMethods(Address, Int32)</h4>
   <div class="markdown level1 summary"><p>Get possible shipping methods from <code data-dev-comment-type="paramref" class="paramref">storeId</code> to <code data-dev-comment-type="paramref" class="paramref">address</code>.</p>
@@ -2400,7 +2446,9 @@ ShipMethod[] GetShippingMethods(Address address, int storeId)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IStoreService.html">IStoreService</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=241">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetTotals_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetTotals*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetTotals_DirectScale_Disco_Extension_LineItem___System_Int32_System_String_System_Int32_DirectScale_Disco_Extension_Address_System_String___DirectScale_Disco_Extension_OrderType_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetTotals(DirectScale.Disco.Extension.LineItem[],System.Int32,System.String,System.Int32,DirectScale.Disco.Extension.Address,System.String[],DirectScale.Disco.Extension.OrderType,System.Int32)">GetTotals(LineItem[], Int32, String, Int32, Address, String[], OrderType, Int32)</h4>
   <div class="markdown level1 summary"><p>Prior to creating an order, this method can be called to calculate how much the order will cost. For example, on a checkout page.</p>
@@ -2491,7 +2539,9 @@ ShipMethod[] GetShippingMethods(Address address, int storeId)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetTotals_DirectScale_Disco_Extension_LineItem___System_Int32_System_String_System_Int32_DirectScale_Disco_Extension_Address_System_String___DirectScale_Disco_Extension_OrderType_System_Int32_DirectScale_Disco_Extension_ShippingTaxOverride_">GetTotals(LineItem[], Int32, String, Int32, Address, String[], OrderType, Int32, ShippingTaxOverride)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=251">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetTotals_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetTotals*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetTotals_DirectScale_Disco_Extension_LineItem___System_Int32_System_String_System_Int32_DirectScale_Disco_Extension_Address_System_String___DirectScale_Disco_Extension_OrderType_System_Int32_DirectScale_Disco_Extension_ShippingTaxOverride_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetTotals(DirectScale.Disco.Extension.LineItem[],System.Int32,System.String,System.Int32,DirectScale.Disco.Extension.Address,System.String[],DirectScale.Disco.Extension.OrderType,System.Int32,DirectScale.Disco.Extension.ShippingTaxOverride)">GetTotals(LineItem[], Int32, String, Int32, Address, String[], OrderType, Int32, ShippingTaxOverride)</h4>
   <div class="markdown level1 summary"><p>Same as <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetTotals_DirectScale_Disco_Extension_LineItem___System_Int32_System_String_System_Int32_DirectScale_Disco_Extension_Address_System_String___DirectScale_Disco_Extension_OrderType_System_Int32_">GetTotals(LineItem[], Int32, String, Int32, Address, String[], OrderType, Int32)</a>, but can calculate the totals with manual values set for tax and/or shipping <code data-dev-comment-type="paramref" class="paramref">shipTaxOverride</code>.</p>
@@ -2582,7 +2632,9 @@ Used to manually set shipping or tax costs. If the other method is called, shipp
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.ITaxService.html">ITaxService</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=48">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetUnshippedPackages_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetUnshippedPackages*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetUnshippedPackages_System_Int32_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetUnshippedPackages(System.Int32,System.String)">GetUnshippedPackages(Int32, String)</h4>
   <div class="markdown level1 summary"><p>Find all the packages that still need to be shipped from <code data-dev-comment-type="paramref" class="paramref">warehouseId</code></p>
@@ -2633,7 +2685,9 @@ Used to manually set shipping or tax costs. If the other method is called, shipp
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=225">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_DirectScale_Disco_Extension_Address_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId(DirectScale.Disco.Extension.Address)">GetWarehouseId(Address)</h4>
   <div class="markdown level1 summary"><p>Don't use this one. Call <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_System_Int32_">GetShippingMethods(Address, Int32)</a> or <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_">GetShippingMethods(Address)</a> to find all warehouses that can ship to this address.</p>
@@ -2688,7 +2742,9 @@ int GetWarehouseId(Address address)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_">GetShippingMethods(Address)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=197">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_System_Int32_System_String_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId(System.Int32,System.String,System.String)">GetWarehouseId(Int32, String, String)</h4>
   <div class="markdown level1 summary"><p>Calls <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethod_System_Int32_">GetShippingMethod(Int32)</a>, then <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_System_String_System_String_">GetWarehouseId(String, String)</a></p>
@@ -2753,7 +2809,9 @@ int GetWarehouseId(int shippingMethodId, string countryCode, string stateCode)</
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethod_System_Int32_">GetShippingMethod(Int32)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=212">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_GetWarehouseId_System_String_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.GetWarehouseId(System.String,System.String)">GetWarehouseId(String, String)</h4>
   <div class="markdown level1 summary"><p>Don't use this one. Call <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_System_Int32_">GetShippingMethods(Address, Int32)</a> or <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_">GetShippingMethods(Address)</a> to find all warehouses that can ship to this address.</p>
@@ -2815,7 +2873,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_GetShippingMethods_DirectScale_Disco_Extension_Address_">GetShippingMethods(Address)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=186">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_InsertOrderPayment_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.InsertOrderPayment*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_InsertOrderPayment_DirectScale_Disco_Extension_PaymentResponse_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.InsertOrderPayment(DirectScale.Disco.Extension.PaymentResponse)">InsertOrderPayment(PaymentResponse)</h4>
   <div class="markdown level1 summary"><p>Manually insert a new payment for an order.</p>
@@ -2863,7 +2923,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
   <div class="markdown level1 remarks"><p>This method will not normally be called directly. Payments will be created when <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_SubmitOrder_DirectScale_Disco_Extension_NewOrderDetail_DirectScale_Disco_Extension_NewPayment___">SubmitOrder(NewOrderDetail, NewPayment[])</a> is called.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=101">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_IsLocked_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsLocked*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_IsLocked_System_DateTime_System_DateTime_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsLocked(System.DateTime,System.DateTime)">IsLocked(DateTime, DateTime)</h4>
   <div class="markdown level1 summary"><p>Indicates if either <code data-dev-comment-type="paramref" class="paramref">invoiceDate</code> or <code data-dev-comment-type="paramref" class="paramref">commissionDate</code> are earlier than the lock date.</p>
@@ -2923,7 +2985,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IHistoryService.html#DirectScale_Disco_Extension_Services_IHistoryService_IsLocked_System_DateTime_">IsLocked(DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=89">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_IsLocked_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsLocked*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_IsLocked_System_Int32_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsLocked(System.Int32)">IsLocked(Int32)</h4>
   <div class="markdown level1 summary"><p>Indicates if <code data-dev-comment-type="paramref" class="paramref">orderNumber</code> is locked for editing.</p>
@@ -2973,7 +3037,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IHistoryService.html#DirectScale_Disco_Extension_Services_IHistoryService_IsLocked_System_DateTime_">IsLocked(DateTime)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=58">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_IsMoveOrderPermitted_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsMoveOrderPermitted*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_IsMoveOrderPermitted_DirectScale_Disco_Extension_Order_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.IsMoveOrderPermitted(DirectScale.Disco.Extension.Order)">IsMoveOrderPermitted(Order)</h4>
   <div class="markdown level1 summary"><p>Indicates if the <code data-dev-comment-type="paramref" class="paramref">order</code> is not locked and can be moved by the current user.</p>
@@ -3021,7 +3087,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
   <div class="markdown level1 remarks"><p>Currently will always return false, unless MoveOrder hook is hooked.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=40">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_Log_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.Log*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_Log_System_Int32_System_String_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.Log(System.Int32,System.String)">Log(Int32, String)</h4>
   <div class="markdown level1 summary"><p>Add a log <code data-dev-comment-type="paramref" class="paramref">message</code> to <code data-dev-comment-type="paramref" class="paramref">orderNumber</code>.</p>
@@ -3059,7 +3127,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
   <div class="markdown level1 remarks"><p>These are visible on the corporate order page.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=150">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_PayOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.PayOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_PayOrder_System_Int32_System_Int32_System_String_DirectScale_Disco_Extension_NewPayment___" data-uid="DirectScale.Disco.Extension.Services.IOrderService.PayOrder(System.Int32,System.Int32,System.String,DirectScale.Disco.Extension.NewPayment[])">PayOrder(Int32, Int32, String, NewPayment[])</h4>
   <div class="markdown level1 summary"><p>Attempt to charge the associate for an existing <code data-dev-comment-type="paramref" class="paramref">orderNumber</code>. <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_SubmitOrder_DirectScale_Disco_Extension_NewOrderDetail_DirectScale_Disco_Extension_NewPayment___">SubmitOrder(NewOrderDetail, NewPayment[])</a> for new orders.</p>
@@ -3132,7 +3202,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_SubmitOrder_DirectScale_Disco_Extension_NewOrderDetail_DirectScale_Disco_Extension_NewPayment___">SubmitOrder(NewOrderDetail, NewPayment[])</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=125">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_RefundPayment_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.RefundPayment*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_RefundPayment_System_Int32_DirectScale_Disco_Extension_Refund___" data-uid="DirectScale.Disco.Extension.Services.IOrderService.RefundPayment(System.Int32,DirectScale.Disco.Extension.Refund[])">RefundPayment(Int32, Refund[])</h4>
   <div class="markdown level1 summary"><p>Give the associate back their money for <code data-dev-comment-type="paramref" class="paramref">orderNumber</code>.</p>
@@ -3170,7 +3242,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
   <div class="markdown level1 remarks"><p>If the full amount of the order is refunded, then the commission engine will undo the order. If money has been paid out for this order, then a clawback will be initiated for those funds. If the order is still within an open period, then it's volume will no longer be counted.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=134">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_SubmitOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.SubmitOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_SubmitOrder_DirectScale_Disco_Extension_NewOrderDetail_DirectScale_Disco_Extension_NewPayment___" data-uid="DirectScale.Disco.Extension.Services.IOrderService.SubmitOrder(DirectScale.Disco.Extension.NewOrderDetail,DirectScale.Disco.Extension.NewPayment[])">SubmitOrder(NewOrderDetail, NewPayment[])</h4>
   <div class="markdown level1 summary"><p>Validates, records, and processes a new <code data-dev-comment-type="paramref" class="paramref">order</code> with <code data-dev-comment-type="paramref" class="paramref">payments</code>.</p>
@@ -3224,7 +3298,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
   <div class="markdown level1 remarks"><p>Triggers the full order process. Calls <a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_PayOrder_System_Int32_System_Int32_System_String_DirectScale_Disco_Extension_NewPayment___">PayOrder(Int32, Int32, String, NewPayment[])</a> internally.</p>
 </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=66">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrder_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrder*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrder_DirectScale_Disco_Extension_UpdateOrderInfo_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrder(DirectScale.Disco.Extension.UpdateOrderInfo)">UpdateOrder(UpdateOrderInfo)</h4>
   <div class="markdown level1 summary"><p>Updates <a class="xref" href="DirectScale.Disco.Extension.UpdateOrderInfo.html#DirectScale_Disco_Extension_UpdateOrderInfo_OrderNumber">OrderNumber</a> with all the values from <code data-dev-comment-type="paramref" class="paramref">order</code>.</p>
@@ -3258,7 +3334,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_UpdateOrders_DirectScale_Disco_Extension_UpdateOrderInfo___">UpdateOrders(UpdateOrderInfo[])</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=74">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrders_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrders*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrders_DirectScale_Disco_Extension_UpdateOrderInfo___" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrders(DirectScale.Disco.Extension.UpdateOrderInfo[])">UpdateOrders(UpdateOrderInfo[])</h4>
   <div class="markdown level1 summary"><p>Updates multiple <a class="xref" href="DirectScale.Disco.Extension.UpdateOrderInfo.html#DirectScale_Disco_Extension_UpdateOrderInfo_OrderNumber">OrderNumber</a>s with all the values from <code data-dev-comment-type="paramref" class="paramref">orders</code>.</p>
@@ -3292,7 +3370,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
       <div><a class="xref" href="DirectScale.Disco.Extension.Services.IOrderService.html#DirectScale_Disco_Extension_Services_IOrderService_UpdateOrder_DirectScale_Disco_Extension_UpdateOrderInfo_">UpdateOrder(UpdateOrderInfo)</a></div>
   </div>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=80">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrderTotal_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrderTotal*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_UpdateOrderTotal_DirectScale_Disco_Extension_OrderTotal_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdateOrderTotal(DirectScale.Disco.Extension.OrderTotal)">UpdateOrderTotal(OrderTotal)</h4>
   <div class="markdown level1 summary"><p>Update the <code data-dev-comment-type="paramref" class="paramref">total</code> record in DB. <a class="xref" href="DirectScale.Disco.Extension.OrderTotal.html#DirectScale_Disco_Extension_OrderTotal_Id">Id</a> must be an existing OrderTotal record.</p>
@@ -3321,7 +3401,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=117">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_Services_IOrderService_UpdatePackage_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdatePackage*"></a>
   <h4 id="DirectScale_Disco_Extension_Services_IOrderService_UpdatePackage_System_Int32_System_Int32_System_Int32_DirectScale_Disco_Extension_Address_" data-uid="DirectScale.Disco.Extension.Services.IOrderService.UpdatePackage(System.Int32,System.Int32,System.Int32,DirectScale.Disco.Extension.Address)">UpdatePackage(Int32, Int32, Int32, Address)</h4>
   <div class="markdown level1 summary"><p>Update the <code data-dev-comment-type="paramref" class="paramref">packageId</code> record in DB. <code data-dev-comment-type="paramref" class="paramref">packageId</code> must be an existing package record.</p>
@@ -3374,6 +3456,9 @@ int GetWarehouseId(string countryCode, string stateCode)</code></pre>
             <div class="sideaffix">
               <div class="contribution">
                 <ul class="nav">
+                  <li>
+                    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/Order/Services/IOrderService.cs&amp;version=GBmaster&amp;line=8" class="contribution-link">View Source</a>
+                  </li>
                 </ul>
               </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">

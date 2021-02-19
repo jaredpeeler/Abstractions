@@ -5,7 +5,7 @@
         {
           "src": "../../",
           "files": [
-            "Abstractions/DirectScale.Disco.Extension.Abstractions/**.csproj"
+            "AbstractionLayer/DirectScale.Disco.Extension.Abstractions/**.csproj"
           ]
         }
       ],

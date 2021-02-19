@@ -49,6 +49,9 @@
                 
                 <ul class="nav level1 navbar-nav">
                       <li>
+                          <a href="../api/DirectScale.Disco.Extension.html" title="Abstractions Documentation">Abstractions Documentation</a>
+                      </li>
+                      <li>
                           <a href="https://apigateway.directscale.com/" title="API Documentation">API Documentation</a>
                       </li>
                       <li>
@@ -628,6 +631,15 @@
                           </li>
                           <li class="">
                             <a href="DirectScale.Disco.Extension.WebsiteInfo.html" title="WebsiteInfo" class="">WebsiteInfo</a>
+                          </li>
+                        </ul>  </li>
+                    <li class="">
+                      <span class="expand-stub"></span>
+                      <a href="DirectScale.Disco.Extension.Abstractions.Tests.html" title="DirectScale.Disco.Extension.Abstractions.Tests" class="">DirectScale.Disco.Extension.Abstractions.Tests</a>
+                        
+                        <ul class="nav level2">
+                          <li class="">
+                            <a href="DirectScale.Disco.Extension.Abstractions.Tests.Tests.html" title="Tests" class="">Tests</a>
                           </li>
                         </ul>  </li>
                     <li class="">
@@ -1576,7 +1588,9 @@ Do not implement directly. You must implement one of the children abstract class
   <h3 id="constructors">Constructors
   </h3>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=27">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant__ctor_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.#ctor*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant__ctor_DirectScale_Disco_Extension_MerchantInfo_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.#ctor(DirectScale.Disco.Extension.MerchantInfo)">MoneyInMerchant(MerchantInfo)</h4>
   <div class="markdown level1 summary"><p>Constructs the merchant with the custom merchant's definition.</p>
@@ -1628,7 +1642,9 @@ Do not implement directly. You must implement one of the children abstract class
   <h3 id="properties">Properties
   </h3>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=19">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant_MerchantInfo_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.MerchantInfo*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant_MerchantInfo" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.MerchantInfo">MerchantInfo</h4>
   <div class="markdown level1 summary"><p>Contains the custom merchant definition.</p>
@@ -1672,7 +1688,9 @@ Do not implement directly. You must implement one of the children abstract class
   <h3 id="methods">Methods
   </h3>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=94">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant_GetNewPayerId_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.GetNewPayerId*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant_GetNewPayerId_System_Int32_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.GetNewPayerId(System.Int32)">GetNewPayerId(Int32)</h4>
   <div class="markdown level1 summary"><p>It is common for merchants to have their own accounts and ids for our customers, that will need to be used to process transactions for them. Override this method with logic for creating an account with the merchant and return the associate's PayerId with that merchant, if needed.</p>
@@ -1733,7 +1751,9 @@ Do not implement directly. You must implement one of the children abstract class
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=87">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant_RefundPayment_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.RefundPayment*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant_RefundPayment_System_String_System_Int32_System_String_System_Double_System_Double_System_String_System_String_System_String_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.RefundPayment(System.String,System.Int32,System.String,System.Double,System.Double,System.String,System.String,System.String)">RefundPayment(String, Int32, String, Double, Double, String, String, String)</h4>
   <div class="markdown level1 summary"><p>Called when a refund has been submitted. Should include all custom work needed to return funds to the customer.</p>
@@ -1846,7 +1866,9 @@ No default implementation can be provided. This must be implemented in custom me
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=44">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant_ValidateCurrency_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.ValidateCurrency*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant_ValidateCurrency_System_String_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.ValidateCurrency(System.String)">ValidateCurrency(String)</h4>
   <div class="markdown level1 summary"><p>Allows the merchant to validate the currency before an charge/refund is attempted and return an error.</p>
@@ -1911,7 +1933,9 @@ Override if different functionality is required.</p>
     </tbody>
   </table>
   
-  
+  <span class="small pull-right mobile-hide">
+    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=63">View Source</a>
+  </span>
   <a id="DirectScale_Disco_Extension_MoneyInMerchant_ValidatePayment_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.ValidatePayment*"></a>
   <h4 id="DirectScale_Disco_Extension_MoneyInMerchant_ValidatePayment_System_String_DirectScale_Disco_Extension_NewPayment_" data-uid="DirectScale.Disco.Extension.MoneyInMerchant.ValidatePayment(System.String,DirectScale.Disco.Extension.NewPayment)">ValidatePayment(String, NewPayment)</h4>
   <div class="markdown level1 summary"><p>Allows the merchant to validate a payment what is about to be charged or refuned and return an error.</p>
@@ -1992,6 +2016,9 @@ Override to specify requirements for payments.</p>
             <div class="sideaffix">
               <div class="contribution">
                 <ul class="nav">
+                  <li>
+                    <a href="https://directscale.visualstudio.com/Disco/_git/DirectScale.Disco.Extension.Abstractions?path=DirectScale.Disco.Extension.Abstractions/MoneyIn/Custom/MoneyInMerchant.cs&amp;version=GBmaster&amp;line=14" class="contribution-link">View Source</a>
+                  </li>
                 </ul>
               </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">

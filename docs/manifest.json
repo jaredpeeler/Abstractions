@@ -5,14 +5,38 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html",
+          "hash": "iKVuCqgSTtMg8o6QX1kF0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.html",
+          "hash": "ZGw63MXQXn6ilYAKcd1zzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.yml",
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.html",
-          "hash": "J44VelS3Ay8f1STAHhf9Hw=="
+          "hash": "FtxCE+G1Y4Rt2JpSBm8Kvg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AchPayment.html",
-          "hash": "L6xrjZSaf3J1KRxmcy5+AA=="
+          "hash": "3FMOcAv5gO/Gcr+irbZdpg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Address.html",
-          "hash": "9T7TSB0F4CwKxOE1F6ZlTw=="
+          "hash": "8vyMiCsDVaB5qY1Sgx//dw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Adjustment.html",
-          "hash": "NiPjyFMfvTVikHo2uI05xw=="
+          "hash": "cE0znsS4yAFTTF7uU6pK/Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AdjustmentStatus.html",
-          "hash": "oGfQ2HxPFzqidW7vmMowzg=="
+          "hash": "Y3lTaVVNw90SIqariJeRVQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AmountType.html",
-          "hash": "08ubjBD361uYV1hg6SHO0g=="
+          "hash": "X4CcTAZ+59ptKNp4xbdpUw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ApiDefinition.html",
-          "hash": "0pxeXsFan8BgFjLpTVSahQ=="
+          "hash": "RY7+NRBuIrx5nOBDbstU0w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ApiEndpoint-1.html",
-          "hash": "CvgYSl9LKA7JfbIRfkbWMA=="
+          "hash": "rDPZHpX0zvk40+0up4rwJw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ApiRequest.html",
-          "hash": "7Me1KL+JRGLIYhtjNBzqJg=="
+          "hash": "I9CBMRRutppA11Q4Ue1pVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ApiResponse.html",
-          "hash": "dY3SKdjObixk/Tx+B5IXhQ=="
+          "hash": "ujkFvEuRT6bKNNK/Yim7Uw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.IApiEndpoint.html",
-          "hash": "RKrf0hAyOzJZphtecJrSeA=="
+          "hash": "/5bce3Mr8LRXTiCAqxOumA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.IApiResponse.html",
-          "hash": "HFZ1eJ26o8KVNoTvfPV/7A=="
+          "hash": "3YbW/BwXH6BKN788AiSX7g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.IHtmlTemplatingService.html",
-          "hash": "Uvazeu2WTYJHs/RGNjAvbA=="
+          "hash": "+/nhD3S9m7LgtM7BmY+VWw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.IRequestParsingService.html",
-          "hash": "BBwtCKvKchL9sluBFOICww=="
+          "hash": "KqhNrACrfqlv8PWcXjJHcA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.IViewEndpoint.html",
-          "hash": "u9d/sNiuqfLP1l1017AqAA=="
+          "hash": "EX/dw6rnqIphnzSGSLzmaw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.Menu.html",
-          "hash": "/RBaeQTV47EjrkcxPuv1ew=="
+          "hash": "eXBisUQ/9ZX9J8GeFIh7Kg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -201,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.Ok.html",
-          "hash": "CMNUy9n8zDPgjtjALa1BgQ=="
+          "hash": "kvfudanQhSIjOFEvSuKGbQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -213,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.OverrideViewName.html",
-          "hash": "GWP/hd7vpXuYUEDTibOBZQ=="
+          "hash": "Pdf0J5rFecc8N+G1Iz7ZTA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.RequestBody.html",
-          "hash": "RZeVfq1WbqHltwPj0rcZ8w=="
+          "hash": "YbJN+uogLvfHRCM2aFigAw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -237,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.View.html",
-          "hash": "WSzZ+MLKuMsKjKxdsa2bHQ=="
+          "hash": "xIDy61z34gZ8vwIvXrDL0Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -249,10 +273,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ViewDefinition.html",
-          "hash": "npBOC7lWQEe9Z4lGW6XZqA=="
+          "hash": "qItKxIcwpUTaBY1NVtqJzg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -261,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ViewEndpoint-1.html",
-          "hash": "aM16V62zhLJsPTtEfxYOTg=="
+          "hash": "N/EUa+0INdmCJjicuSEoeg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -273,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ViewOverrideDefinition.html",
-          "hash": "fJW/cEQ+15zLRnJnxCXsuA=="
+          "hash": "whIxwNeRw9VIQJtNVwT+oA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -285,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.ViewTemplate-1.html",
-          "hash": "Xs+fuyrBVGF+vQMl/1wP7Q=="
+          "hash": "mz7nPobcI7W9UP4oQ4ZORg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -297,10 +321,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Api.html",
-          "hash": "q6vww6Sbkz6Lm+f1GVDrdg=="
+          "hash": "SvQZuL13iiCdVrY5ySIH8A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -309,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Application.html",
-          "hash": "pHDghQ77je8K7ZKBVvnaLg=="
+          "hash": "SsGOd77iZwcSX+YlNJPA7A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -321,10 +345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ApplicationOrder.html",
-          "hash": "sP6TJIggQoPEtnx/XitC0A=="
+          "hash": "KCj9nCBlq1mYrckfreJQHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -333,10 +357,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ApplicationResponse.html",
-          "hash": "OAC4wXlqlrFDvtZAMcXPZA=="
+          "hash": "lSXxzl0PxhY7NoTijvBblw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -345,10 +369,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Associate.html",
-          "hash": "3IGdBjIk3wNrP4PB3skUzg=="
+          "hash": "NebSSsdwocE7mM9BSRtGEQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -357,10 +381,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AssociateCommissionResult.html",
-          "hash": "SeHyRU3glqcgMcnnpwMxiw=="
+          "hash": "y833Z5Y4rz1fbUUfm0snsA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -369,10 +393,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Autoship.html",
-          "hash": "iQBwrb+u6/YA26YNPC5XKQ=="
+          "hash": "bS68TfEAe5vuGqgclBBAuw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -381,10 +405,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AutoshipType.html",
-          "hash": "vgIS2+mkOSMieFNKyLxdZQ=="
+          "hash": "pRNC4pad6E8ZfK1ecYlJPg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -393,10 +417,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AuxiliaryData.html",
-          "hash": "z0Ay7qryxLWUNDcu1iAMeA=="
+          "hash": "Lxr9gSuTFhkBFPMHfCkdmQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -405,10 +429,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.AvaliableComponent.html",
-          "hash": "ZuRsNjaAn9g+OiW64mcS/g=="
+          "hash": "veDPlcvtsDOMTd70nuVzNQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -417,10 +441,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Bom.html",
-          "hash": "wFdnANVZ5hzt6VT8lXwN7Q=="
+          "hash": "62DGDh1KSqweGqabk612dw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -429,10 +453,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.BomGroup.html",
-          "hash": "ICdEbxuwByQybG3opMi21g=="
+          "hash": "xdfz2ygQC+Tl8V1CjG3Qpw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -441,10 +465,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.BonusDetail.html",
-          "hash": "bBNpfeUoNBAenmKDzRwb+Q=="
+          "hash": "QtgbyhlpZsNaG/hkXpIPKA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -453,10 +477,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.BonusPayStatus.html",
-          "hash": "zlnen1KLgts+PXChRbo/SQ=="
+          "hash": "P01t4y8C+fsi0Jvihohejw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -465,10 +489,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CSSColors.html",
-          "hash": "LQVQRhBu96BNpNh1zqcetw=="
+          "hash": "+wsOWaR383Wumb8BQA7m0A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -477,10 +501,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CSSImagePaths.html",
-          "hash": "RJja76jL9ukfbglHLlIYxw=="
+          "hash": "ZHyK9W4sYChF1oXw3eUzJw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -489,10 +513,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Category.html",
-          "hash": "cVwomKua/n20mYAnc5cmow=="
+          "hash": "NZJRo7BuzDy+Q9bTb7Xb7A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -501,10 +525,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionCheck.html",
-          "hash": "BLc/aBKRm5emrvzAweK8Pg=="
+          "hash": "8n/YH/0sPl6UpPHqlzay0w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -513,10 +537,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionCheckDetail.html",
-          "hash": "nAVWixeJDPY8zxpLNZfmJQ=="
+          "hash": "vH4pZ5N9bAFjT/6TatrA5Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -525,10 +549,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionHistoryDetail.html",
-          "hash": "TlfvM+TR3o2coJJguL9K0Q=="
+          "hash": "m2HapG44dJB3UOFD06Cqeg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -537,10 +561,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionHistorySummary.html",
-          "hash": "kU45gYI09AvlIzqPKgTKng=="
+          "hash": "TQWcwuCpfvj6j3bfI/F0Pw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -549,10 +573,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchant.html",
-          "hash": "WxDjyJ8xQlHthYPq4QMPXg=="
+          "hash": "ffXthgEJYpTmNIoUE31CYw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -561,10 +585,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantAccountFields.html",
-          "hash": "yTVsrjCoMUWL++kFRzTIYA=="
+          "hash": "ukQiD+YFYtFn+2uiuOnWdA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -573,10 +597,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantBase.html",
-          "hash": "+WpAD+KCJunO1gkjbBjPlw=="
+          "hash": "jhRur7llyYJCkkcL5KhgsQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -585,10 +609,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionMerchantCustomField.html",
-          "hash": "UTmDkMPolPO7+JIgbZY8vg=="
+          "hash": "OiILv9GgVQ/E010fu9sbuw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -597,10 +621,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionOverride.html",
-          "hash": "vEZTodAk/aAXBCJ/ZtCMaQ=="
+          "hash": "8Nvpw2nlxUAy1UxxhYEveQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -609,10 +633,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPayment.html",
-          "hash": "OEtOWHOwHJwzvn44mlMRew=="
+          "hash": "o8dOJlJyC4ipuLo3HREiDA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -621,10 +645,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentDetail.html",
-          "hash": "QmfahtlQjJ/SuEP5bgP0jQ=="
+          "hash": "YucBdOeGEhTrWxUECCkGpA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -633,10 +657,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResult.html",
-          "hash": "jWQYL+EjeMhjNBMjn3kUPQ=="
+          "hash": "7GGmsshoBAxTOPVwIAMIFQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -645,10 +669,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentResults.html",
-          "hash": "Dk+gHy+pe1mzgqA0CksMXQ=="
+          "hash": "IzIXYHeceNBTezObHag53Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -657,10 +681,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentSplit.html",
-          "hash": "j+lwPBT83varW3FDfKgFwQ=="
+          "hash": "SjnuRGighUFEYIMVHx0onQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -669,10 +693,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionPaymentStatus.html",
-          "hash": "/WBfhVDOg+1Or+eNQiCcLQ=="
+          "hash": "qHK019yV7ZiW4MRtyaoO1w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -681,10 +705,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionRuleResult.html",
-          "hash": "wSsrtWvlGdHeWs2R40laTw=="
+          "hash": "OfspITJbw2AuAzBtFmS0gA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -693,10 +717,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommissionStats.html",
-          "hash": "mKRH+/ijWDyD1He4odKObA=="
+          "hash": "ffXzTnGbXKQ1UOANG4hVig=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -705,10 +729,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CommittedDetails.html",
-          "hash": "4d41SLAYtSsjfprTm0m1eQ=="
+          "hash": "1WhTmImUIpEUaITwjDGrLQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -717,10 +741,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Company.html",
-          "hash": "LNaS8v8MbWZkJR1URWdlpg=="
+          "hash": "yoCCC6EM5ejQMZOHnDMMvQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -729,10 +753,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Contributor.html",
-          "hash": "NG1LPRThpzhi18BOWW+4ZQ=="
+          "hash": "gh/qj52ngmPaSfFl+Lil9w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -741,10 +765,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Country.html",
-          "hash": "S9B8rJtgwPhU2/LfsgPahg=="
+          "hash": "zVuWBmE68BHJ/YezLpmtmQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -753,10 +777,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CountryLanguage.html",
-          "hash": "X5UFTRzaMcklfkPkjB2P1g=="
+          "hash": "6ujZTCunyKRvQ1X9a+1Qhw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -765,10 +789,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Coupon.html",
-          "hash": "W8Je6ICV84FBy7IDlC8PRA=="
+          "hash": "pmX+TVSqNcjhGjSHXQU6vg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -777,10 +801,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CouponAdjustedVolume.html",
-          "hash": "yGpPvphGo8tmrP1H11qsNw=="
+          "hash": "JvdzzAd2/MnXvrn2XWDgoA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -789,10 +813,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CouponType.html",
-          "hash": "VBIViA+T3WcPZDBReC5nUA=="
+          "hash": "aoKBfBvISrvw4Y9HFz61uw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -801,10 +825,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Currency.html",
-          "hash": "8FMl0EAaoJnxgPyP7rgZcQ=="
+          "hash": "h9dA6JmaZ+NogTiENS36ag=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -813,10 +837,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CustomFields.html",
-          "hash": "pb/suww1R9fRBEPQXyZdUg=="
+          "hash": "Lb7qtN/LBnu1uFjgaDv6ww=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -825,10 +849,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CustomTree.html",
-          "hash": "X9/ZUDQDPekQQ5qlA6mKWg=="
+          "hash": "pSugzQAaOQggWbL9xbupVw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -837,10 +861,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.CustomVolumeSource.html",
-          "hash": "/Nw9D1gFUZXfps7nkkE1gQ=="
+          "hash": "nBVqJISTxDKviCY+GrxCUQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -849,10 +873,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.DelayedMoneyInMerchant.html",
-          "hash": "KB1TMhT+A+BEdmAF1R2gXw=="
+          "hash": "vacDSLihCIdCRJwImDEl4A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -861,10 +885,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Discount.html",
-          "hash": "GovLEn05My2ZHu4PuVv9PA=="
+          "hash": "BLZ6/0kF6azRLbM38kEKJA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -873,10 +897,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.DiscountType.html",
-          "hash": "uqfqr7jhd+Y18duPpzbmew=="
+          "hash": "YpB4geF7NLElkD1+DzZ/aA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -885,10 +909,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.EmailMessage.html",
-          "hash": "cfyROszkJm9jDNoARNb4bg=="
+          "hash": "QMqzahQ0+y5EUt/BveitVw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -897,10 +921,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.EmailOnNotificationEvent.html",
-          "hash": "5+NUfm8ocEhIJTivI77QbQ=="
+          "hash": "jdMbFuojhZ6j+oBIQy87ZA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -909,10 +933,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.EnvironmentType.html",
-          "hash": "K5LI5XW+GFSEXeoB2v/Rrw=="
+          "hash": "cUswJWwm2LSseuMoaO6SQA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -921,10 +945,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.EventType.html",
-          "hash": "pb5AQ9qv/uib4ajcElqH9g=="
+          "hash": "2FFXKGevFBSjLCPI3mEHTQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -933,10 +957,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ExtensionContext.html",
-          "hash": "Q7jDDteU7dNIlLzI1xhTbg=="
+          "hash": "fvC6QKjaN2zEXYf1gbZLJw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -945,10 +969,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ExtensionException.html",
-          "hash": "ltpQTds4uC2ZeqIjXMhskg=="
+          "hash": "HPvgYgvS1nwW05QSU7Cs7Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -957,10 +981,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ExternalSyncVendor.html",
-          "hash": "NFOHI6Df0AeDMwAjlj4FUQ=="
+          "hash": "aP3sKltB7fquVgpO2eNm1A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -969,10 +993,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FastStartBonuses.html",
-          "hash": "5r6SOSldQi2uKINCCAI+5w=="
+          "hash": "ImBUfrmFsr3waY15uSxI7g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -981,10 +1005,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FindAssociateResult.html",
-          "hash": "ljSVat4sj2eyPd+QMjvOhA=="
+          "hash": "LfpAHcvtBGsXUXA8L8Rhmg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -993,10 +1017,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionCallback.html",
-          "hash": "l/VGZuqf7/Dlzv8wqH+rgA=="
+          "hash": "fArLQHa/6GEwULCqDziwxQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1005,10 +1029,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionData.html",
-          "hash": "m9NmYMJ4gxYFnueboKpuzA=="
+          "hash": "uO4GWJMjzYFjEV7GTX8+pA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1017,10 +1041,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionInfo.html",
-          "hash": "AofyefsoAsBpehEBKD1PEg=="
+          "hash": "VROFYqidGBLhSaa2AnZ2VQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1029,10 +1053,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FraudPreventionTypeEnum.html",
-          "hash": "Ii3ErV1gEvJs9fhOAa9ZqA=="
+          "hash": "ZXmD9l5ZR/V2NqHC2wueWA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1041,10 +1065,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.FraudReviewStatus.html",
-          "hash": "B5JB3rbwpyHTNg1jpcBlRw=="
+          "hash": "+X9Qg+fdgw29V11l/PJ4Pg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1053,10 +1077,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Frequency.html",
-          "hash": "+j5Byepg12yYh+3mrAfIkw=="
+          "hash": "2yvXbaSTHXwIAOUqZ/4c/w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1065,10 +1089,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.AssociatesHooks.html",
-          "hash": "CUvqP/RnxOESS6b6aGRsNg=="
+          "hash": "YBwHpGJVqlR4eoRvT0h9EQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1077,10 +1101,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.EnrollmentHooks.html",
-          "hash": "qduNpp4m0fo41qQSdJPenw=="
+          "hash": "FL5owQNUqanoPO6zS3+y4Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1089,10 +1113,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookRequest.html",
-          "hash": "hkIhwIvv698jkVNelhW6pg=="
+          "hash": "/AoPTFAhZBmsm5BL8l4SWA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1101,10 +1125,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsEmailAvailableHookResponse.html",
-          "hash": "Vwp1VEZvaiMIVaMA5M/OvA=="
+          "hash": "56CBHrlhnTlGhDKHij6xNQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1113,10 +1137,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookRequest.html",
-          "hash": "r7fv874VBit2+cpNJzipiQ=="
+          "hash": "gYyWF6h5EIE+hDwbsbDdqQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1125,10 +1149,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.IsTaxIdAvailableHookResponse.html",
-          "hash": "3A/BfNWQtuMo1orqJcgh4A=="
+          "hash": "ibaWYdHcKgsFjYwwPq6pZg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1137,10 +1161,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookRequest.html",
-          "hash": "IrpZMhXf7nxMJlh9zUyjbg=="
+          "hash": "iWXhfJlxtSzgvqN5o7kGdw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1149,10 +1173,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.SetBackOfficeIdHookResponse.html",
-          "hash": "gmxqFcGbjorpK3up047Utg=="
+          "hash": "b5uNKo9OT9pxxNHBn6yznQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1161,10 +1185,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookRequest.html",
-          "hash": "AEs/Q8gT71bUF79g+83n6A=="
+          "hash": "Aq1uTaTEwgaUmSZiHu1fsA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1173,10 +1197,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ShouldSendNotificationHookResponse.html",
-          "hash": "ErUqnw3qpBJMHleBDAgraw=="
+          "hash": "QU2TwYTeqOER4I7ACxZxqQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1185,10 +1209,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookRequest.html",
-          "hash": "aYzuOvQrqUONM1Zf0qjCPg=="
+          "hash": "374O7MitdRGVI3E4NONyMw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1197,10 +1221,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.UpdateAssociateBaseTypeHookResponse.html",
-          "hash": "/6xbrbyuJVl84e5asYt+Qw=="
+          "hash": "/mznsfEOSceyHlEebmIYLw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1209,10 +1233,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookRequest.html",
-          "hash": "vr8kccqgb8KDeLlSJ8ECVQ=="
+          "hash": "oujH2ceTJJEd5QGL7Z7LjA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1221,10 +1245,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.ValidateApplicationHookResponse.html",
-          "hash": "OhzgLP3r8AKROlBPSpJxZA=="
+          "hash": "CuRW04liNNy1hsGN/BS+Aw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1233,10 +1257,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookRequest.html",
-          "hash": "yShSmq1rJtTALaDwcN5q/Q=="
+          "hash": "abniiHdTzuQNw40IMfPeVQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1245,10 +1269,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.WriteApplicationHookResponse.html",
-          "hash": "BnXnakURQe/aGwXfhkEBaw=="
+          "hash": "qCzuL6KwAz0Kh7QFsXHuMA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1257,10 +1281,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Enrollment.html",
-          "hash": "a2ouGhWgjHGIflGzixv8AA=="
+          "hash": "0ngj9D26gCOfFQNoH53VDA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1269,10 +1293,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookRequest.html",
-          "hash": "Ib7VB1ZwpWPeATBMs9ZCRw=="
+          "hash": "OBoH1RhzxWsfFUErfyD/Cg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1281,10 +1305,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateServiceAutoshipSettingsHookResponse.html",
-          "hash": "CBRPA5Qwa2U3nHyp6DQnJA=="
+          "hash": "dum9N4xglNpLs8iyLqLJXg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1293,10 +1317,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookRequest.html",
-          "hash": "gOouEfjdHn5joV7zF1UGdg=="
+          "hash": "+ojzQkzEbkzqmAfJUG+iVw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1305,10 +1329,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociateTreeLabelHookResponse.html",
-          "hash": "p4uan7s76bihiy4LiGb4sA=="
+          "hash": "YxtmPSUrOZGsgqA6GFugyw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1317,10 +1341,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookRequest.html",
-          "hash": "jDOlu0Sp57jKng0qoWiR/A=="
+          "hash": "9bXWp5U1aisSZ1yb03Hiaw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1329,10 +1353,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetAssociatesStatsHookResponse.html",
-          "hash": "lDaIHwolNwOgSAglFfGUVg=="
+          "hash": "f0Jb5mGdf04e1HGocY577Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1341,10 +1365,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookRequest.html",
-          "hash": "G/UZY1pynZ/HwQMJbM03FQ=="
+          "hash": "V1MzpwdC3oxEnxfCiQSEHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1353,10 +1377,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionCheckDetailsHookResponse.html",
-          "hash": "g1iXfL3RIx6rlGtrlRgDoQ=="
+          "hash": "I9ROGYz1U0vUIfIO02b9mQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1365,10 +1389,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookRequest.html",
-          "hash": "ncSPPGZe3rjVkcwRSpcaww=="
+          "hash": "JZZnQq6BykdxOJ4t0Lam9Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1377,10 +1401,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetCommissionChecksHookResponse.html",
-          "hash": "862AyaIQJ2xSZf0t5tEqWw=="
+          "hash": "P5NwTB16zzdJuv59pLB4vA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1389,10 +1413,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookRequest.html",
-          "hash": "j+bTOhFQ20qsG5Q8A4q+Rg=="
+          "hash": "XV5KwbKfMcTPgF5Jpj3TGw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1401,10 +1425,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.GetSecondaryTitleHookResponse.html",
-          "hash": "m1nafxVVgdVxEbrcx5j1/Q=="
+          "hash": "yDTZ1cL2pGwkZEeednvPsg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1413,10 +1437,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookRequest.html",
-          "hash": "nwzzrC5eLT/DTtlR7dSw2w=="
+          "hash": "wQ8AZtVmoXLGaii1CAZxDw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1425,10 +1449,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailParametersHookResponse.html",
-          "hash": "E3eCu7YV9D3DKiygyaT5vw=="
+          "hash": "gBAZXqBCRkim+zRJ17seRQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1437,10 +1461,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookRequest.html",
-          "hash": "a5iX3fQeBCiUWali/KRNyA=="
+          "hash": "SR5SkTVdSTUZfMqjWvSmUA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1449,10 +1473,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetCustomEmailTemplateNamesHookResponse.html",
-          "hash": "fIFZhvVs7l6vFJz/C8Bb3w=="
+          "hash": "wQC/P+BfZy7DTE+D2/zgoA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1461,10 +1485,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookRequest.html",
-          "hash": "FcbcYrwmCMuPfnEf58GNOA=="
+          "hash": "P/TY1Saenli2TMfzLvXBwA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1473,10 +1497,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailDataHookResponse.html",
-          "hash": "uDB5qIQ6JQOx5MVPpFHPhQ=="
+          "hash": "19c+kQh8nPU60T3S8IJzVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1485,10 +1509,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookRequest.html",
-          "hash": "do8UxIo/+2vOw308hM6b6w=="
+          "hash": "WUE/JLYDe2ntH9wPAbIvQA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1497,10 +1521,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.GetEmailPlaceholdersHookResponse.html",
-          "hash": "ysVno0lPAtqxjHgxZlY7cA=="
+          "hash": "R1QLhz5qK/g4sWfvMnJASA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1509,10 +1533,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.NotificationHooks.html",
-          "hash": "rjzlRX37Herv9aU2oelngQ=="
+          "hash": "LgMsdsDVKNKTzv0HTH2CkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1521,10 +1545,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.Notifications.html",
-          "hash": "91sjth4zlnFOFLl5E+s0YA=="
+          "hash": "vLCztHOewFGEy9UBLFqY0g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1533,10 +1557,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookRequest.html",
-          "hash": "FH1K2t/vQrBK3ISAZzewJQ=="
+          "hash": "Zb0dtqwAnd2cUbs4hNdTvg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1545,10 +1569,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.OnNotificationEventHookResponse.html",
-          "hash": "QjzQlnGM8mMPsjQE4ZYC5Q=="
+          "hash": "KDmkZcrmDBx+k7tkoS/ZFg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1557,10 +1581,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookRequest.html",
-          "hash": "PjMSPNevqoWpqVrT08C93g=="
+          "hash": "kseKA2Lg++sCMgIunV0ECw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1569,10 +1593,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAssociateHookResponse.html",
-          "hash": "ys3NH3S9x89Ye9eHm0crPw=="
+          "hash": "1pOxYtS9dAkCyp1wR93eEA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1581,10 +1605,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookRequest.html",
-          "hash": "hmGM5COlPzNkxEOw8mJ3hA=="
+          "hash": "PPv8tjosmYFtObyMs46gRA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1593,10 +1617,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateAuxHookResponse.html",
-          "hash": "U/TLBStfY78+vlZJCgch0Q=="
+          "hash": "4dKxOGf5At2KNqndamceLA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1605,10 +1629,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookRequest.html",
-          "hash": "3vjherKsCUw5yca+bpYaRw=="
+          "hash": "7QALe+0pNZc0dhjLYFKbdg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1617,10 +1641,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.UpdateVolumeHookResponse.html",
-          "hash": "9Vhn4ewIPj/r9R+/rLI7uQ=="
+          "hash": "tWxjGVxnOfHgqRiw8puGDw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1629,10 +1653,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Associates.html",
-          "hash": "qw8OWLQgcbo5IGKW7PDnFw=="
+          "hash": "DAehEsuNXAexbBGk8J+Jug=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1641,10 +1665,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookRequest.html",
-          "hash": "/Fpf/wCNLI5Uy2UIsQyCiw=="
+          "hash": "nP10ofQc0WGT933COSNqVg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1653,10 +1677,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ApplyAutoshipCouponCodesHookResponse.html",
-          "hash": "vsVVSl7W+nV+CXG7a2bMvw=="
+          "hash": "AQIcMcH3IYaDz8tq1NMOAQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1665,10 +1689,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.AutoshipHooks.html",
-          "hash": "Xc/vPrPI6ay5M6zsZkPG/w=="
+          "hash": "KZyllsK/FnI7Ty3SgrhBTw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1677,10 +1701,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookRequest.html",
-          "hash": "g7aHAMJV3mNAmVV9jgV1AQ=="
+          "hash": "g0R8Jmd9xX/oXenf/nPIqw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1689,10 +1713,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CancelAutoshipHookResponse.html",
-          "hash": "X5HuSJP5186NUNOQdJh01w=="
+          "hash": "waqINRHZrjx7zoSBy1YlkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1701,10 +1725,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookRequest.html",
-          "hash": "gU9MdwDRxJJ+jp4uHVcWAQ=="
+          "hash": "BHrLxYU+7DaxmlccomFCiQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1713,10 +1737,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.CreateAutoshipHookResponse.html",
-          "hash": "ypnb1uYScKDmK6SJcwjc3A=="
+          "hash": "mnnVt74JSWlh7Tb3dFEMmg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1725,10 +1749,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookRequest.html",
-          "hash": "JoomdrN9BoXPZFHh2KPJKA=="
+          "hash": "D6p31nSaBxqbk8mzYhSWpg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1737,10 +1761,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.DailyRunHookResponse.html",
-          "hash": "Wh5UKBmVmZZOOHD7dihseQ=="
+          "hash": "YR9wKBYodRwSYd4H7pw+mA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1749,10 +1773,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookRequest.html",
-          "hash": "qnlk6ldYQcpTGdAubtC+uQ=="
+          "hash": "pBdqiUYu90sNaZ9g52FCNA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1761,10 +1785,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipBackupPaymentHookResponse.html",
-          "hash": "eKBKd4Q3nnwt3FxpaboBAA=="
+          "hash": "xjyH1yJwkok4WvyZnbPWLw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1773,10 +1797,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookRequest.html",
-          "hash": "oef0gRUG5AsO3vZTBISYjA=="
+          "hash": "G+wvyPRH0UmKIxp5hY/I3A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1785,10 +1809,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.GetAutoshipsHookResponse.html",
-          "hash": "i3C1+pZkCHtDYz+TKX1+FA=="
+          "hash": "mv/u3vJalkMUAcP1zc972A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1797,10 +1821,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookRequest.html",
-          "hash": "3pD5RfmjPj0syH9A9oVz7w=="
+          "hash": "Dq6HKuckVPoQvPDA24csxA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1809,10 +1833,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldChargeAutoshipHookResponse.html",
-          "hash": "H8LaIsH9wEDDs5G1sZucpA=="
+          "hash": "et6XS7Z4ICFEut27ediShA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1821,10 +1845,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookRequest.html",
-          "hash": "sip7/KGk6JVf6SbDC3HP2w=="
+          "hash": "97ui3j3v49Ie0Il7dYe9zw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1833,10 +1857,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.ShouldRetryAutoshipOrderHookResponse.html",
-          "hash": "W/b8CaaQ/TfxriQ3d6PLVA=="
+          "hash": "Ub3Koeteurp0aFRUL4AwEA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1845,10 +1869,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookRequest.html",
-          "hash": "HLDwtqpHYPkX+5rB1eNiyw=="
+          "hash": "lzdEXLu/3hTgSyClWsNoFg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1857,10 +1881,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.UpdateAutoshipHookResponse.html",
-          "hash": "RLBRUIYxpOlgkWI8W1PXzg=="
+          "hash": "k/IpUrJW+B/ymeOimJnvfw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1869,10 +1893,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Autoships.html",
-          "hash": "TGPd3kd/1bIRLhgfPeRYTw=="
+          "hash": "NoUeiBXvtOctPTRYONFQHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1881,10 +1905,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.AfterCommissionBonusDetailsHookModel.html",
-          "hash": "jyH1kzUs3kUwqsXKDYKkbg=="
+          "hash": "E4xP2Rs4ypSK83jG2MWGJg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1893,10 +1917,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookRequest.html",
-          "hash": "eZQ7RWuUj0qbIE+9+9TL0A=="
+          "hash": "xQ/kdEaaD/TQWB4Ems+o9w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1905,10 +1929,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanPlaceAssociateHookResponse.html",
-          "hash": "syUnwafUs31ZQJdG+SIOgQ=="
+          "hash": "j/795ovu8UNbYT/C5HYUTA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1917,10 +1941,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookRequest.html",
-          "hash": "+VV8w/3rfMxX8FJKZEGWgw=="
+          "hash": "fUYwT9X0rqdXZ9PBaErDNA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1929,10 +1953,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CanViewDownlineNodeHookResponse.html",
-          "hash": "lr4+fhgwHOuNctNXQvsMSw=="
+          "hash": "Ved7QIeYKZtrJQtRxvX8uQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1941,10 +1965,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.CommissionHooks.html",
-          "hash": "Q+o7p9cXDlmIoYnzk0dM+g=="
+          "hash": "196cXk5QUSGZSbmqTC/fig=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1953,10 +1977,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookRequest.html",
-          "hash": "idk+J+VCxNDJnv5xSkMtyg=="
+          "hash": "wzcOcQEOQPZbWD0PsItJuQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1965,10 +1989,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetBonusDetailDataHookResponse.html",
-          "hash": "p6SJP7rWTjsGDeiOcKK5DA=="
+          "hash": "0djbJMfcuneubO8QBntOrg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1977,10 +2001,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookRequest.html",
-          "hash": "+FkV23weu1oh0Lba9N6QHg=="
+          "hash": "gCEYf22XbgkmjVt/A7OMlA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -1989,10 +2013,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionBonusDetailsHookResponse.html",
-          "hash": "CUn4mRc8xht0PMn1p3GfNA=="
+          "hash": "bXeBqxYVhUnXRHz0Re+6bA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2001,10 +2025,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookRequest.html",
-          "hash": "HseuxpBZao6+KJyeFQUFdQ=="
+          "hash": "HQK0ewYoCsLjIQOV9tVyOw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2013,10 +2037,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetCommissionDetailsHookResponse.html",
-          "hash": "CWdFIbrKEPbODj73QIp+rg=="
+          "hash": "t264tbE08o9IDofQXsPWpA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2025,10 +2049,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookRequest.html",
-          "hash": "eeQ8iSWMs0ssoEmAbBJXvQ=="
+          "hash": "JG9UInE+bPI+la+BWIIJow=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2037,10 +2061,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlaceToAssociatesHookResponse.html",
-          "hash": "bKbBV5r6ng6pid4cRWnlqQ=="
+          "hash": "8MxSN1oqk5M3qHb23yJKGA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2049,10 +2073,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookRequest.html",
-          "hash": "jiA+DgL24DoERVfLyNLrYw=="
+          "hash": "3MDmjzlso2eCBrcJSeLl6A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2061,10 +2085,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetPlacementExpirationDatesHookResponse.html",
-          "hash": "TpkAvdoeYFLjHOvjBHCC+g=="
+          "hash": "Oh2bMt4OnWUE1/o4dMCveA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2073,10 +2097,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookRequest.html",
-          "hash": "1Ym1s5OYCvsfQ39uHuwFKA=="
+          "hash": "Ye1e0hd09iO2P6PNGql0lQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2085,10 +2109,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.GetSplitPaymentsHookResponse.html",
-          "hash": "v/PF3YG0qhVeDCG3nXH8Tg=="
+          "hash": "WF6+MW8mr/sPoXOEdGEFsQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2097,10 +2121,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookRequest.html",
-          "hash": "gNeiJpHv/4pFNn0Nwr26tw=="
+          "hash": "TY9er2PwuhxDLEsvleRMIA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2109,10 +2133,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.LogRealtimeRankAdvanceHookResponse.html",
-          "hash": "zWfNGqYWV+42ka6GygTHwg=="
+          "hash": "6VwOtgDU6fwnSfs2xmLcsw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2121,10 +2145,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookRequest.html",
-          "hash": "P66GGYdkBRcCO2MqTWaw1A=="
+          "hash": "u1UDuBjbfeOEMGBA66F1zA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2133,10 +2157,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.MatchRuleForVisualTreeHookResponse.html",
-          "hash": "gfaRUhV1YBNDOd2T0mfCLQ=="
+          "hash": "1bQfPYq6mImP0uZXB9Jwkw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2145,10 +2169,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PeriodData.html",
-          "hash": "9RRO3lZCYlHFXWgPOQ05oA=="
+          "hash": "UwrCC/6x1cVZapuzS3u8Ug=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2157,10 +2181,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.PlacementDetail.html",
-          "hash": "1uzT6KoBQ8HynpauMZztsg=="
+          "hash": "RSIwpQ0JcdF68/DLG+FLRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2169,10 +2193,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Commissions.html",
-          "hash": "tX7RlSGRTa4QgaaW3faF+g=="
+          "hash": "j+Oyj1DBXZrhjUfoX+qsWg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2181,10 +2205,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.AutoshipFailedRequest.html",
-          "hash": "0BjMoVaLvkL6qVxujEU2Rw=="
+          "hash": "ZNi+TobSOrtihzH46cWrUA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2193,10 +2217,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplateResponse.html",
-          "hash": "P6JB7Wys7UOsFGbD/CCDhQ=="
+          "hash": "CkGQ85/I1cc/prYzjqfb9Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2205,10 +2229,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.EmailTemplatesHooks.html",
-          "hash": "VmQEcp7P6MolhiuqkQDk5g=="
+          "hash": "pHLBhVPiZMPLRUEKVZKNrQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2217,10 +2241,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderFailedRequest.html",
-          "hash": "lIs3yO58b3mnpRsZ6Y3y7g=="
+          "hash": "DrREKXcmL0nO2MxoyVnn/Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2229,10 +2253,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.OrderRecieptRequest.html",
-          "hash": "rogt0r4vb3KgWTfHSxUS6A=="
+          "hash": "hLj27Ji6bonl9DjxOOYTlw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2241,10 +2265,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.PartyEmailTemplateRequest.html",
-          "hash": "bpEl33JvyMHIB/Ni4GInvA=="
+          "hash": "hnbUAg1XNuzdOy7qiY6/lw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2253,10 +2277,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionAboutToExpireRequest.html",
-          "hash": "oe1Mq38zLqm+EoZni66SZA=="
+          "hash": "BjQIPzQ/jFgs6JE8/Won6w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2265,10 +2289,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.SubscriptionExpireRequest.html",
-          "hash": "zVmh3sC/enb2PQvKAqJsPQ=="
+          "hash": "d4T2uSxFc9x5xK9tRufKTQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2277,10 +2301,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeCustomerTemplateRequest.html",
-          "hash": "WsviSRQQ27SLLGRC/V2VwA=="
+          "hash": "lLmwDCKE5Mc2YlZkE8X0BA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2289,10 +2313,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.WelcomeDistributoremplateRequest.html",
-          "hash": "HMMOM//rZSLhRKAQKfXMKA=="
+          "hash": "M42VDeICkO5bKJz86bcHLQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2301,10 +2325,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.EmailHooks.html",
-          "hash": "fu/eEeKaKBIKSaM7G7DWzA=="
+          "hash": "1VZ9fri7nGAQ9hjtRs1KLw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2313,10 +2337,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.FraudPreventionHooks.html",
-          "hash": "7D9vsjdT1hQ67WejgIt/AQ=="
+          "hash": "HK2g6kNmMPCy7d/NoLLyFw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2325,10 +2349,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookRequest.html",
-          "hash": "z5r2f06L0y7gdeQCXnERCQ=="
+          "hash": "gOdqmOpgRvQld0VwcVWDLg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2337,10 +2361,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetFraudPreventionInfoHookResponse.html",
-          "hash": "mdsrnwcWAIcJs32d8yWHCg=="
+          "hash": "1m3/f56/K03TDUoIozUKZQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2349,10 +2373,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookRequest.html",
-          "hash": "E+paSUe5h31+S3y5TAAdTQ=="
+          "hash": "yfVmRuTKFBlnCgZ43ywTHw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2361,10 +2385,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetOrderPaymentToReviewHookResponse.html",
-          "hash": "0svn4YiDFG2G4FGvysycug=="
+          "hash": "XcGTt6P2ISJJyjjTd/1uNQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2373,10 +2397,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookRequest.html",
-          "hash": "+wJnut6+yimGSm7D9Qzuaw=="
+          "hash": "B5TqLfrwyUbqsG9KkzdiUw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2385,10 +2409,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.GetPreCheckHookResponse.html",
-          "hash": "HhX5m0gU9tJFnqhJIQnBZQ=="
+          "hash": "5vgpu8j4GfCi49bOVFuhFQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2397,10 +2421,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookRequest.html",
-          "hash": "CJF9Lhj9A6UGqRjAxuKDfw=="
+          "hash": "Ecsa7HI32nQtKFzQmxVQ6w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2409,10 +2433,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.ParseCallbackDataHookResponse.html",
-          "hash": "Je3VZK5jB81WeQ8LvbUQag=="
+          "hash": "Z19G07FMIrR/74yTU9hgjg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2421,10 +2445,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.FraudPrevention.html",
-          "hash": "YD67iquQ0aczplYomPAaKw=="
+          "hash": "v0oeQ1oSQabZ1aGRmJ4wFg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2433,10 +2457,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookRequest.html",
-          "hash": "oOEU2mnI6e5w3eKjjmk5rA=="
+          "hash": "taLeZoTuejx623PZnyFsbQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2445,10 +2469,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.GetUsernameHookResponse.html",
-          "hash": "7KHTHORQdh5V5TQRkmJpAg=="
+          "hash": "CTCdVccF+uF6VFTC0U00Pw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2457,10 +2481,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.OverrideDelegate.html",
-          "hash": "VR2fc7ol4pmxE71Oje99uQ=="
+          "hash": "M7FNJdC5AFOhvAXrHj7hsg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2469,10 +2493,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Hook-2.html",
-          "hash": "yerjsvy38UX6gdVJnVw+Pg=="
+          "hash": "lm7a6qxb4ly3Rm0YnLiahA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2481,10 +2505,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.HookCollection.html",
-          "hash": "6BAHBDldL+u63bLlTOPFTA=="
+          "hash": "29bkP2ikBvJB6XsvA/5UJw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2493,10 +2517,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook-2.html",
-          "hash": "vR7GdNvHUQWrp48FIvH5AQ=="
+          "hash": "tYfZ/Qjn6gCKBUdVssA47w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2505,10 +2529,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHook.html",
-          "hash": "X9Aer5yrupbnMiygtsWJvQ=="
+          "hash": "YRvrOd2ipFYZsaLoEHDBSA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2517,10 +2541,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.IHookCollection.html",
-          "hash": "0wqb5FHNNKWlJW6y9e02bg=="
+          "hash": "+qhRK3qc0sfl0pfmTaqlmg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2529,10 +2553,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.InventoryHooks.html",
-          "hash": "51DqXD2g31otI+WjI+pmnQ=="
+          "hash": "4bP7vLSmUN5V7G9M81PxQw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2541,10 +2565,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookRequest.html",
-          "hash": "hRO/exUM+ZVI0qASn/3VdQ=="
+          "hash": "Fpev+d+sziKCkjxLcAsftA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2553,10 +2577,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.ReceiveHookResponse.html",
-          "hash": "XEO4mfnsntXpzgyErqrRsA=="
+          "hash": "bqF02uxEEH56vlAmxjT1HA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2565,10 +2589,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Inventory.html",
-          "hash": "nHdqXIHTg9DBA0ZTq4xHSA=="
+          "hash": "UHuSbYbUSn62lucnEjVDRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2577,10 +2601,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.FraudHooks.html",
-          "hash": "4fh03cyE8lM56oy5WDDakg=="
+          "hash": "995f/9GptZEIaNb55suw0Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2589,10 +2613,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookRequest.html",
-          "hash": "uIqsa/9CprMAGuySKy/8WA=="
+          "hash": "vQrItgvMNG4cJ61BUbv0cw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2601,10 +2625,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.GetUserDefinedFieldsHookResponse.html",
-          "hash": "/PNx7Zb6LSHE1vS7eT4Rsg=="
+          "hash": "6PI6Hy0rTmt3pDZntYgMMQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2613,10 +2637,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.KountHooks.html",
-          "hash": "zLg6g6rsApzWK6OUpYDkAQ=="
+          "hash": "ogzXiAXX3SaDsf/sNl3N2g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2625,10 +2649,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.Kount.html",
-          "hash": "fYEuFCiydFr8wXSnVukHcw=="
+          "hash": "JU2AfT8vwUaOnj7xtLfTaA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2637,10 +2661,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.Fraud.html",
-          "hash": "8kd6Th1yihfB7QzvOakrNA=="
+          "hash": "1iFpDTBJiZH9DJScAZTisA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2649,10 +2673,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MerchantHooks.html",
-          "hash": "6inSgMjVmdtGcYkFvguzOg=="
+          "hash": "ZQqIK7eFgTBgPkg3KZ9ZpQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2661,10 +2685,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookRequest.html",
-          "hash": "/13BNutMsoCIex9OnDBQ+A=="
+          "hash": "cBnH/IWJYdc5KnUtd4/KWA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2673,10 +2697,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.DeletePaymentMethodHookResponse.html",
-          "hash": "DXcKn6bt5zLSG7XQ1RX5mg=="
+          "hash": "Fd6ZkpfvfhopP9NDqq2Y/g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2685,10 +2709,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.EmvioHooks.html",
-          "hash": "X1Cw1cpLhxBKZ8S5hI0wNQ=="
+          "hash": "0BGcmZE2fa9eVl17KsDIkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2697,10 +2721,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookRequest.html",
-          "hash": "Xe0003aq5S8fUCP4k2DBjQ=="
+          "hash": "DOAE3by9GRu/fB+4o8KYHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2709,10 +2733,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ModifyTransactionHookResponse.html",
-          "hash": "eM6c4XxjuVgxBwJOPkzcig=="
+          "hash": "TRaLglcXP8PlDrUNkWeQtg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2721,10 +2745,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.ProcessingOptions.html",
-          "hash": "wAr/eTqm+GqdQ47fk7nxIw=="
+          "hash": "IHPfidhkhOnAlmXjK+Hdng=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2733,10 +2757,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Emvio.html",
-          "hash": "FZ0SmVmuOgmfHRsRMqVWDw=="
+          "hash": "i0FV83wrhqDzRDrrOC306w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2745,10 +2769,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookRequest.html",
-          "hash": "R6XET24aqGaN++9SyUERSQ=="
+          "hash": "PADDwbXvVNA6TbTZZTevAw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2757,10 +2781,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.GetProgramTokenHookResponse.html",
-          "hash": "PQpMsE77kkpg6fsw5lz58Q=="
+          "hash": "4G6BXye3mnbX6ktiuOOC6w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2769,10 +2793,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletAction.html",
-          "hash": "u6DV0XhqpjqC6esV5QPAlA=="
+          "hash": "pGT3bWv+ZnH6pruPUR+56w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2781,10 +2805,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.HyperwalletHooks.html",
-          "hash": "er7jaKMH5GsHV/yhryqZIA=="
+          "hash": "Tngmf+OLJZYF4IbBwArsiw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2793,10 +2817,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.Hyperwallet.html",
-          "hash": "077vHKaxeutCZoEwG+GYWA=="
+          "hash": "Yx1q/Ig/UFndMkP8wLS3QA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2805,10 +2829,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.MoneyInHooks.html",
-          "hash": "XBsQnaMPuWG6woPAdCrgjg=="
+          "hash": "Ew4qH6CcyJit5k0nuV0YkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2817,10 +2841,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyIn.html",
-          "hash": "I8HHWxplj7OSYUpxox4okg=="
+          "hash": "xvobf+r8RYaAnTMy1btfWw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2829,10 +2853,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchHooks.html",
-          "hash": "/ZPpyZXEQOlxqHq4S3tqJw=="
+          "hash": "/j+8+A3lqiQn5tqOmFb6QA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2841,10 +2865,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookRequest.html",
-          "hash": "hV1bPv0GZ0NGuqfFvhyreg=="
+          "hash": "DpWBBmXosRWR8H1eX9L9IQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2853,10 +2877,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchJPFileWriterHookResponse.html",
-          "hash": "xdQMUyrBJVJK6Ax9zWgatA=="
+          "hash": "Xs7RhMmFBoUOyRthCuoBRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2865,10 +2889,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookRequest.html",
-          "hash": "QVroHwE+vuL/QBLqu9BE/g=="
+          "hash": "a552KMbfz6CYnqzSi5uAGw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2877,10 +2901,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchTWFileWriterHookResponse.html",
-          "hash": "i3akZ9zwWZIjm7UxrsV1yg=="
+          "hash": "jqEBm1plm657bxEOzmk+eA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2889,10 +2913,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookRequest.html",
-          "hash": "hA/E+LHH5xxHaj8604dc5A=="
+          "hash": "mzaR600kX97zr1dMLr3VgA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2901,10 +2925,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.AchUSFileWriterHookResponse.html",
-          "hash": "9m+jEY1mBdYFLORYI0KoQQ=="
+          "hash": "n9oUObxYkRESnRuNi5woSw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2913,10 +2937,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.Ach.html",
-          "hash": "jToCzlQpoJ9+fstYMNhlfg=="
+          "hash": "j72nEfQ1jxiF9f0BYD82tw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2925,10 +2949,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.MoneyOutHooks.html",
-          "hash": "M0HtvLmLyJu3rNfjHHqDtA=="
+          "hash": "PAH2Tu6Gv1EqHU29430mnw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2937,10 +2961,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookRequest.html",
-          "hash": "OzZGG02c6BGEXYERfxEK5Q=="
+          "hash": "0TFSStFxVYOiHWIQFDxWYg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2949,10 +2973,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.SaveAdjustmentsHookResponse.html",
-          "hash": "8VWF73vbKvSdm3nvKtW10g=="
+          "hash": "kreSshtIaL28+lkEWFugrQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2961,10 +2985,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.MoneyOut.html",
-          "hash": "OSG5PeH1t94WcMk6No2wuQ=="
+          "hash": "o9KSh0tMNkZeK6A0/V9mrA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2973,10 +2997,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Merchants.html",
-          "hash": "ES4aY0Fg94B6ly4B4vpv0w=="
+          "hash": "OgzseoGWVrErcDo54EG1xg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2985,10 +3009,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookRequest.html",
-          "hash": "LPfOstbo03m0P1he4pGsRg=="
+          "hash": "09otrn4YGqxGdOqLctb2xQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -2997,10 +3021,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.AdjustNewOrderPaymentsHookResponse.html",
-          "hash": "bFe6D6Gph5CBqVjiDVHTuA=="
+          "hash": "Sm2f582P/+67db+nB3h2vw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3009,10 +3033,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookRequest.html",
-          "hash": "Bp30+wJa86FkowizArI5eg=="
+          "hash": "R4N8bDFlUfpRhZtgDKAKvw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3021,10 +3045,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.CancelOrderHookResponse.html",
-          "hash": "61Oqevut+3hzKMTLBnOMqQ=="
+          "hash": "QNtk3CkK8ALbsmoUgTE6sA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3033,10 +3057,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookRequest.html",
-          "hash": "leSUBKPsjYKPIYiaa4BsuQ=="
+          "hash": "S5BEwbedLpTksmVzpWbejw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3045,10 +3069,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeAcceptedOrderHookResponse.html",
-          "hash": "5jJcxtY8+31HQTT+U4zpgA=="
+          "hash": "Wn0BB/cMCirqYuIEXdwgXA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3057,10 +3081,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookRequest.html",
-          "hash": "fLAQBpGyxgx/duT2NumrKw=="
+          "hash": "qNzdRZB6vvFUlxcY9Lb0Iw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3069,10 +3093,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FinalizeNonAcceptedOrderHookResponse.html",
-          "hash": "OdW05s7odSV4RtKtyD0hPA=="
+          "hash": "1kSqmJNhdjewiaNUm8zScQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3081,10 +3105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookRequest.html",
-          "hash": "yEn8MazR/yG+HE0YiDQd7A=="
+          "hash": "3begrjpW0Ws0XvM/oYtMvg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3093,10 +3117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.FullRefundOrderHookResponse.html",
-          "hash": "UrQDAr6LG+j1CVJZDuFigg=="
+          "hash": "aqZCYkbENzRST1wsw7KmCg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3105,10 +3129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookRequest.html",
-          "hash": "k4eAUaOZau4GgHd3WWBiYw=="
+          "hash": "guGIAwRtmUEyLDpMXiI4hA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3117,10 +3141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.GetCouponAdjustedVolumeHookResponse.html",
-          "hash": "ExqoYLgxTmN9lvmGIy/y/w=="
+          "hash": "CjscDNiF2cqax00XVHhjjw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3129,10 +3153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookRequest.html",
-          "hash": "Q1Nj20ar4rWfF4CvOdI/sw=="
+          "hash": "NLHhq5ocqcNJBNiQJZ7OZQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3141,10 +3165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.MoveOrderHookResponse.html",
-          "hash": "G0TVXY4UDfyznogASR/PSw=="
+          "hash": "IoR1lfuSkL5Zd4yPuYBfKw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3153,10 +3177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.OrdersHooks.html",
-          "hash": "sGelGqnNz7yyYWZ89UDqXQ=="
+          "hash": "pbNx0jYxtDODWv9C3MJ7Cw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3165,10 +3189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookRequest.html",
-          "hash": "NvuuVvwJ1l8ZSKUYBNkIBQ=="
+          "hash": "DMZ1zNBcAyVqwpIk/dvUHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3177,10 +3201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.MarkPackagesShippedHookResponse.html",
-          "hash": "aoFzxqg+QJTzCdzS6pIGCg=="
+          "hash": "3Yw7iX2Tj/ArCbEuibeX2g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3189,10 +3213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.PackagesHooks.html",
-          "hash": "2bc7+URCKoSIpV3cywCp8Q=="
+          "hash": "39nEyNxoTiK8L1UjMzsbnA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3201,10 +3225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Packages.html",
-          "hash": "0tVj4zqpsYrmb1MTMvb3rw=="
+          "hash": "J5DRtRtdCo6gaoQjvaCLHQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3213,10 +3237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookRequest.html",
-          "hash": "lkKkYVyrVhBjKNQSoSDmmw=="
+          "hash": "EgjcYr7OlfElahnHpOEOPQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3225,10 +3249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessCouponCodesHookResponse.html",
-          "hash": "NYCfU6ggqcyW8wy0N43GXg=="
+          "hash": "FUgYzt79R5omhrPn/lyzCw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3237,10 +3261,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookRequest.html",
-          "hash": "PYEhzADw6dHkqTCNxerwkw=="
+          "hash": "NWBjgGKKwLHZTKeGs/pbOQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3249,10 +3273,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.ProcessOrderPaymentHookResponse.html",
-          "hash": "TX+6HBkEwVLN0ThxztvlbA=="
+          "hash": "IO//PGaBMoLRKtl2zdpoQw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3261,10 +3285,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookRequest.html",
-          "hash": "3KHfPL7B2fhLvY/9D9YSdQ=="
+          "hash": "d7apotVdLLPuPBB1IMdLIQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3273,10 +3297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.RefundPaymentHookResponse.html",
-          "hash": "cRn5P0nGRcolKq0bKw6PyQ=="
+          "hash": "wKMh8FUaRi4eWb6RqLGabg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3285,10 +3309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookRequest.html",
-          "hash": "fEFp2NgbC5smAB5N9+C7EA=="
+          "hash": "TeBEwAVGiMZt8YQx7i549A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3297,10 +3321,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.GetShippingHookResponse.html",
-          "hash": "M3sisNAwcLd3Vzz0GrPGXA=="
+          "hash": "kyAv7N2pJJ9xGoE4IR/Lmw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3309,10 +3333,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.ShippingHooks.html",
-          "hash": "LlEVk/ZLsp39Fh0/fGwVOQ=="
+          "hash": "xf2aUn6V7FNNwNFGX/HEYw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3321,10 +3345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.Shipping.html",
-          "hash": "toW4X9bRhqEBNZ3cJVSFrA=="
+          "hash": "TAJ3HhI0l+XjVeu8bQquuw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3333,10 +3357,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookRequest.html",
-          "hash": "Rej+GONWgURwJbN2Kzyo1Q=="
+          "hash": "sPEFXpkZZm2EIkGRUxoVkA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3345,10 +3369,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.SubmitOrderHookResponse.html",
-          "hash": "i5/bVoAJe5yqfZYbpJHhxA=="
+          "hash": "bjb3a2rXIRZAefUbYZDy2g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3357,10 +3381,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Orders.html",
-          "hash": "BTX40oh6VXV9NkFptwCbfw=="
+          "hash": "nnRgNu2UqZQCrlJ8eBk/oQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3369,10 +3393,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.SettingHooks.html",
-          "hash": "dTb9NqRXURSnO8MDNzCZKw=="
+          "hash": "5ES3nS9Ur4bi7Qdr6s0cMg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3381,10 +3405,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookRequest.html",
-          "hash": "WhIljtrD5s2SaBp03CYtWQ=="
+          "hash": "BWR/4Y64gVdA1qXUyHh/jQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3393,10 +3417,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.CommitTaxHookResponse.html",
-          "hash": "99JbLtPycKaNkNE/uJ0WDQ=="
+          "hash": "F2JhKEgcCNS2Z47mkHHAbg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3405,10 +3429,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookRequest.html",
-          "hash": "aPh0yy8iOKWgvOUgqBuzGA=="
+          "hash": "5Kv+5e4xsL3LJoUSbX0llw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3417,10 +3441,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.GetTaxHookResponse.html",
-          "hash": "+2KkZLz+FF+ST0IUfDyrYw=="
+          "hash": "Psc9P52KfuYHIL/cK4FomA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3429,10 +3453,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.TaxHooks.html",
-          "hash": "AM9U5056oe/dxGFVJCePdA=="
+          "hash": "W+P5KioRt6BcGO9RCFfIjQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3441,10 +3465,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.Taxes.html",
-          "hash": "IVUqS4fur8vN/72MTiMXXw=="
+          "hash": "8LkWpzkvVdmZofJH1MddZA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3453,10 +3477,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Hooks.html",
-          "hash": "acMwzqiOWedDF0vVGfUKPA=="
+          "hash": "EcWR1RDgoynl5FJAFKFX6g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3465,10 +3489,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ICommissionMerchant.html",
-          "hash": "yMV//Cc/phK1ZD9mq0WuaQ=="
+          "hash": "ScnuoeEejcCiEADF1TF4Xw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3477,10 +3501,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.IExtendor.html",
-          "hash": "VpddzcKKPuA4H0ueGZf+rw=="
+          "hash": "0judNlhaRftgvANoxWfHww=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3489,10 +3513,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.IExtension.html",
-          "hash": "MLOiH2pLLrk+MvfUVgXjKg=="
+          "hash": "l9mX6+NeWClFY1xc6I1LVQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3501,10 +3525,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.IMoneyInMerchant.html",
-          "hash": "4TvxoGnB4llZyTxBslvGrQ=="
+          "hash": "e6x4BRN46ZFzzmsgSGPDiQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3513,10 +3537,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Iframe.html",
-          "hash": "tDanCPHCvW73zZ2bYHZnsw=="
+          "hash": "t1Y+EIBg0kim92wY8W8Pww=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3525,10 +3549,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Inventory.CategoryTranslation.html",
-          "hash": "6hE1SXxRyxsF6XAYCpMXkg=="
+          "hash": "hVkdZ+y3YjwZXA1jW52OgQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3537,10 +3561,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Inventory.html",
-          "hash": "zmeeveYiQPMCVemQN813lA=="
+          "hash": "HU/zTRIw+m/TfrKbaLCilw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3549,10 +3573,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.InventoryItem.html",
-          "hash": "JGvqI+nkWPYJcGKB0F0Jlg=="
+          "hash": "2GFRVW/jhKpw1g+MtMVzxA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3561,10 +3585,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ItemImage.html",
-          "hash": "d4wMkXCaKACwP8zu/FqSfA=="
+          "hash": "lWQbCk1OKQ+hLHffVfLfLg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3573,10 +3597,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ItemOption.html",
-          "hash": "rkehNeSiDxdsLxH9JtNEhg=="
+          "hash": "Z4FSS61vqabQiK13MHqUHw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3585,10 +3609,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ItemOptionKeyMap.html",
-          "hash": "3iWBXPNJjpDwh9703IWyBg=="
+          "hash": "n4Rn/tz9s34BQwz+ms/2zQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3597,10 +3621,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ItemOptionValues.html",
-          "hash": "BAXtgnwgADWEdbdTYUMPrw=="
+          "hash": "JNGnGZTghIsWabSQEe25Rg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3609,10 +3633,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.KPIReEntryRule.html",
-          "hash": "kYv9i/1YYXEFbJP5bDjyng=="
+          "hash": "aTadWDgbNTe5K2UpAdui4Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3621,10 +3645,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Kpi.html",
-          "hash": "umijFMKH40kpKOUyhudWgg=="
+          "hash": "XjyPVqLdRvO92eOegxK6Hw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3633,10 +3657,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.LanguageMap.html",
-          "hash": "S0lbUkdC3ehOQQm5ek4+OA=="
+          "hash": "9z0Lfnkk4kHs64DY6mVSZg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3645,10 +3669,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.LegName.html",
-          "hash": "o9AXNdLHZEIrqICoMx37eg=="
+          "hash": "ngROJQm2a/kca2DAO66PFA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3657,10 +3681,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.LineItem.html",
-          "hash": "Akbqmv2eG68elyPIVE1BRA=="
+          "hash": "Hgq21ko8zJBzJrMIKwMtjg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3669,10 +3693,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.LineItemOption.html",
-          "hash": "E8uJD7LKdacs5qwSA4hEhA=="
+          "hash": "zuhd6Gvu5o+k2CwPKzZyNA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3681,10 +3705,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.LineItemPrice.html",
-          "hash": "Zd3lkvSBZdb1etNqhSTHXg=="
+          "hash": "815JI/XIbD26bxwzF9uuIw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3693,10 +3717,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Localization.html",
-          "hash": "AOi3LxaL2gtoLaVRNiyg/Q=="
+          "hash": "I3U3mcCFvUSMC8ogvaZJeg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3705,10 +3729,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Location.html",
-          "hash": "jxTA/issclMSQGclEVbD4w=="
+          "hash": "qEPOzUYGhATZhws9ozzcpw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3717,10 +3741,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Merchant.html",
-          "hash": "0felF24fKqhk7uCCgQqDiQ=="
+          "hash": "4ehgvO49E+shoREVIDyflw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3729,10 +3753,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.MerchantInfo.html",
-          "hash": "3itY/kc5CUpjN0sz5qHjuQ=="
+          "hash": "adqWhZx9sn9bue1rLBWZCg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3741,10 +3765,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.MoneyInMerchant.html",
-          "hash": "rT7IrRRPLjwbU3JvnNx0lA=="
+          "hash": "yuSsf5dVijSteVWi8CVibQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3753,10 +3777,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.MoveOrderMessageType.html",
-          "hash": "xlLxCceTcriRSAO+Py9SMg=="
+          "hash": "1IRk9eMJVhFwAbfl6gjjjQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3765,10 +3789,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.MoveOrderPermission.html",
-          "hash": "fEKwHYxdjJQ/4vFmXknYJQ=="
+          "hash": "DqiOgcEVK9o5FkJuAfQ5xw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3777,10 +3801,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NewOrderDetail.html",
-          "hash": "Om/mLMfj8wb+q1VbK0HT8g=="
+          "hash": "lWagHNoEhdYFgXbu2UpSXw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3789,10 +3813,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NewPayment.html",
-          "hash": "6eBuHarQRByn9epK3i6hQw=="
+          "hash": "+Z7WItbfMvGkU7pVuHxKgw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3801,10 +3825,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NewPaymentMethod.html",
-          "hash": "R+qFxPEKvDa0ZFnrUcCYXg=="
+          "hash": "MLvOVLO8oKvBYN+wGd2lmA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3813,10 +3837,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Node.html",
-          "hash": "ZjQ+WEcrIMC2b+YX7MDaFA=="
+          "hash": "luZygkDEwZS/oz+d4OcQXQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3825,10 +3849,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NodeDetail.html",
-          "hash": "cvvBUIJCzLmesmWcRxRpSQ=="
+          "hash": "wN02TVqa07wFAvehameK9w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3837,10 +3861,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NodeId.html",
-          "hash": "z2km/iGjX4V2HGSGPi1trA=="
+          "hash": "uz+uinpI1XYezM7ndvBfPQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3849,10 +3873,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NomenclatureInfo.html",
-          "hash": "4qp9GroomUre+t4osTiXiQ=="
+          "hash": "8camhlMg3/mq85IiI3AhEw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3861,10 +3885,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.NotificationEvent.html",
-          "hash": "lQrDLx+JbJoo/YDMQn7nmg=="
+          "hash": "rwmzQSdBZT+Gu6e5O1/0ZQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3873,10 +3897,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OnFileMerchant.html",
-          "hash": "TWqpXHTL3WYW4rF5jQDPZg=="
+          "hash": "ByLmVIj17JY3e0JkP/5eyg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3885,10 +3909,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OnFileProfile.html",
-          "hash": "fcfaVhw5MAQLhYjAdFMZxw=="
+          "hash": "11V2PHsYMBG8rIaXyKWpHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3897,10 +3921,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Order.html",
-          "hash": "mG8rtBH/ypvbxksWOna0DQ=="
+          "hash": "6bNvNpoT2PncWuqEJo6kWw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3909,10 +3933,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderCoupon.html",
-          "hash": "zwv7IaEx0nJzJ59/hPl6vQ=="
+          "hash": "Eon4m37P0qM9dvhZPnyG+w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3921,10 +3945,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderCoupons.html",
-          "hash": "59Gh7OeLH7IAjy+PlBXqnQ=="
+          "hash": "p27wYwX7WcvvdA63pbTdDQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3933,10 +3957,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderLineItem.html",
-          "hash": "wQ/OFgHCnR9cHHi2fYNI0w=="
+          "hash": "AbfGyU4X6edoUE+B+OnOqg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3945,10 +3969,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderPackage.html",
-          "hash": "szRIhtmJ62DJ55A55nP6Nw=="
+          "hash": "3Kl5kJqGBbOb1ziYJ4uvAg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3957,10 +3981,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderPayment.html",
-          "hash": "epmrfzyUQ8C2fnsmgsHjFQ=="
+          "hash": "ITxkWRtA3i0hk0c8dWGhvQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3969,10 +3993,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatus.html",
-          "hash": "7gYuQ1C76TK6KJE62utxlw=="
+          "hash": "TrJ7hhGB6/uKgPy8EG78dw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3981,10 +4005,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderPaymentStatusUpdate.html",
-          "hash": "Qy3PR9tF9CC+O5PHMI7cTw=="
+          "hash": "pkymU1qaDNxKT1VPDLiadw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3993,10 +4017,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderStatus.html",
-          "hash": "uTsvCBtliQgC1iSnHQcV7A=="
+          "hash": "WNH9CniJ6Fqiuzh14+wB8g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4005,10 +4029,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderTotal.html",
-          "hash": "L+peDf24+SJYQwQM7slvvQ=="
+          "hash": "K1DzMaianyggKLNg0LxMXg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4017,10 +4041,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OrderType.html",
-          "hash": "pqcjENdjC1MYB/xfUDUx/g=="
+          "hash": "avqhS+xFa/Q7bwoOytQ0cQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4029,10 +4053,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.OverridePeriod.html",
-          "hash": "Mgu8QFDtEmkrLOqRzy/uUg=="
+          "hash": "UEtKzHdDBqwXRCKohwlD6g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4041,10 +4065,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PackageStatusUpdate.html",
-          "hash": "kJcjolmqjCOKY/5n+Mz2kQ=="
+          "hash": "H+osHMHDo9tmHCnrKzNT/g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4053,10 +4077,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentMethod.html",
-          "hash": "/Ju5aO8Lpy7ZZZcV2jM9Fg=="
+          "hash": "JasQ2xdYRwv/pcCWm3fm4Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4065,10 +4089,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentProcessStatus.html",
-          "hash": "Zrq9cQW2Uiv6oqqz+FJ/Mg=="
+          "hash": "EHgRdE5VYmHsaOC0YRzjLQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4077,10 +4101,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentResponse.html",
-          "hash": "Fc5CNBzBamhSCi2hNuYnAg=="
+          "hash": "a1JOY9QQruRCZM7IjGMG6Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4089,10 +4113,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentResult.html",
-          "hash": "GX3mNQT1S/QwJWV4OiGnIA=="
+          "hash": "sa/KKJ6DtAY3tHTSxCMLVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4101,10 +4125,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentResultDetail.html",
-          "hash": "b3t2EF9EcNODAEcHSNu+3Q=="
+          "hash": "JH6Dhwn8NxKGtobFtdsCew=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4113,10 +4137,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PaymentStatus.html",
-          "hash": "1crEtQ97aKffIAlM7AI58g=="
+          "hash": "ZAr5xWmJ9Y8VqZy7M2t95g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4125,10 +4149,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Period.html",
-          "hash": "NgzyyZISdpJivwLedxv8vw=="
+          "hash": "EjFLM3DgECU/WucI5Hy4YA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4137,10 +4161,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PeriodType.html",
-          "hash": "iTnStE5h141e7qihfsur4A=="
+          "hash": "QBtvahDrGmtREnMcLKVZ9w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4149,10 +4173,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Placement.html",
-          "hash": "BgecOBbaIT+hGdPmuVkBuQ=="
+          "hash": "SEIBeQSxoJyJ6m5AcEbyWQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4161,10 +4185,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PlacementAction.html",
-          "hash": "0zvqatL9kUdP9u5MZVpK1g=="
+          "hash": "+yQ3PhC3Pr/bpig+nzXafA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4173,10 +4197,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.PointsItem.html",
-          "hash": "0vsWxBfoRUMDJQcIXv8bIA=="
+          "hash": "O0xBbLgp6wERNx0oDr5neg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4185,10 +4209,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Rank.html",
-          "hash": "S9Bvnp0AbBJ1W4MTz5OsaQ=="
+          "hash": "d2+z/kN0kq/mqg6viNcLxg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4197,10 +4221,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RankDate.html",
-          "hash": "tMgfcsryhK28LGEb8s/XXw=="
+          "hash": "z4+lq0sn1ovICHPIqUsZfA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4209,10 +4233,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RankDetail.html",
-          "hash": "rNnZ5Y4zHiakJDa1TunA2A=="
+          "hash": "Ky8x2YbTQAZP0DxxJK8rPA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4221,10 +4245,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RankDetailGroup.html",
-          "hash": "hkdej+kdbPZ5NgPDrJ11XQ=="
+          "hash": "hCnogiJRAruQQKqcUa/zzg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4233,10 +4257,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RankSummary.html",
-          "hash": "neSEklZbxow2VC0hYp4+vA=="
+          "hash": "wr1TVcWem+J46R07iD/iZA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4245,10 +4269,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ReEntryRule.html",
-          "hash": "qFe7Jug+fd9P5dBFUXILHQ=="
+          "hash": "rnvWdSz8IRexzbTB8Ea0Jw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4257,10 +4281,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ReEntryRuleType.html",
-          "hash": "JUxXmpyXM1hac9wRFn8IGQ=="
+          "hash": "YeocJAAEiFX3YNimnmBdjg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4269,10 +4293,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ReceiveLineInfo.html",
-          "hash": "m35nulqURosbn4dUeQg/PA=="
+          "hash": "Ys1Xn+PT7SHeJGOlB0n5jA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4281,10 +4305,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RedirectMoneyInMerchant.html",
-          "hash": "0mpKTc/BE88Lzh4uslX9gw=="
+          "hash": "haOYJMauh1/NiQ1y/wThzw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4293,10 +4317,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Refund.html",
-          "hash": "Z/JMkhr0bwz/auoXDaB1Kw=="
+          "hash": "f9dQEA2nmZBOheMVuIEmdg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4305,10 +4329,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Region.html",
-          "hash": "ubTobQo50OcwCGo2HCKDmQ=="
+          "hash": "4FfalniMh73UfELHmy+RVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4317,10 +4341,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RegionLocale.html",
-          "hash": "sKy2Hl3ObkwJg4SVEpeZLA=="
+          "hash": "lun1XNcZRO6X+mDGJeqR6Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4329,10 +4353,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RegionMapping.html",
-          "hash": "7dTxHfPkCSmsl/25SmyWJQ=="
+          "hash": "JlCmZ5hjuS4sKo88aqGctA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4341,10 +4365,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RequestBase.html",
-          "hash": "wTdN/dxBdUUz9YY5R7+sYg=="
+          "hash": "wjdZvQW/VlXeSecX4Eu64g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4353,10 +4377,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RetryRule.html",
-          "hash": "BPVeEOAM0Efbk6SDRl0oqA=="
+          "hash": "7XVxT8eGmpzkBA4dIyHT/Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4365,10 +4389,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RewardPointDetail.html",
-          "hash": "thOhlbnE/l0XW1aHo/NOwA=="
+          "hash": "yVB3OvPs9Ybb+98iGLpO1Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4377,10 +4401,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Rma.html",
-          "hash": "A6z7cYbWXXAP2QhOR4HZTQ=="
+          "hash": "hqtOSkHswXCEEqA1SVTTkg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4389,10 +4413,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.RmaLineItem.html",
-          "hash": "WSxWQk5/c0SPsxXxJ0ifxw=="
+          "hash": "49x0TyPVwnK37ZMr4dYwiw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4401,10 +4425,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Routing.html",
-          "hash": "BavWiJI9EEapfULm2IbaOA=="
+          "hash": "TN2bWLPggawpWXMQ6uoPgA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4413,10 +4437,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SaveCouponResponse.html",
-          "hash": "wBmG66rmemLaJQjeuVhpRA=="
+          "hash": "OfYirrHFx1B4XzPfEIhqCQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4425,10 +4449,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SavePaymentForm.html",
-          "hash": "S3k7R85fZWKnDkVJqTGnEw=="
+          "hash": "XcLaGa7KyOD1tt1i/vggLw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4437,10 +4461,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SavePaymentMerchantInfo.html",
-          "hash": "ZqQqZQYw/LYRuDHdck3f3A=="
+          "hash": "wT1btbX08AMd+srBKiIMKA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4449,10 +4473,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SavedPaymentMoneyInMerchant.html",
-          "hash": "NEN5Dg4jyPAAzdq1Gf6U2Q=="
+          "hash": "pQ19ottVgyj9Zl/uUOejng=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4461,10 +4485,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IAddressesService.html",
-          "hash": "j5iXAhw9ov08Hc1dEa2m3w=="
+          "hash": "xc8i7Opruxr5Q6wTCg7tXg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4473,10 +4497,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IAdjustmentService.html",
-          "hash": "GRC9qbbA0n7e+1XGbnYOKQ=="
+          "hash": "QM0D3Y33AduMNLOxQS4DSg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4485,10 +4509,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IAssociateService.html",
-          "hash": "5zMmfByOp0bCy2mYugpYEQ=="
+          "hash": "cNkn/ve4gvatfOkjKIvs5g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4497,10 +4521,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IAutoshipService.html",
-          "hash": "QHuIrrYVCCyHOhb/yuVULA=="
+          "hash": "5FU3cB/8wSyncrW0QNQTcQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4509,10 +4533,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IBomService.html",
-          "hash": "Tc+ChsiDCAHTcWT8u8HV8Q=="
+          "hash": "yVy5SQTReXXKaBqUngPzKA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4521,10 +4545,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICategoryService.html",
-          "hash": "F90L2pOzblzirroNxdmDqw=="
+          "hash": "E3BRAn1G3WoiFas+ZW/hCw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4533,10 +4557,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICompanyService.html",
-          "hash": "peaTg3g57Y1+TzELdTL8Vw=="
+          "hash": "XE0w91aW2nSIKrAHhzhMgQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4545,10 +4569,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICountryService.html",
-          "hash": "dc3iWf5P7TYgkaqV5PyMMg=="
+          "hash": "gBdXz7wCqoLAZmqZd/lQIA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4557,10 +4581,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICouponService.html",
-          "hash": "hSKZNg3nqDc0Lz29t791hA=="
+          "hash": "8Z+olH68NY3KQFmC7NQY9g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4569,10 +4593,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICurrencyService.html",
-          "hash": "meicABKqcw8ivZ1uBekz5g=="
+          "hash": "tn/bYSgOaMp8EhEEOjl3Sg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4581,10 +4605,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICurrentUser.html",
-          "hash": "ZbfbO6JHRHEYVDmyrhneFg=="
+          "hash": "bPqY7H+zVPmAspL8eByCQA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4593,10 +4617,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ICustomTreeService.html",
-          "hash": "z1QG0eHRxJIsBnfUK4tmPQ=="
+          "hash": "peiU8zfrzwP/ZbS4Whnx4g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4605,10 +4629,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IDataService.html",
-          "hash": "SoIcykUfbuxKA0HB3jEbVw=="
+          "hash": "x58DE3SGUx1c79Rfdlfa4g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4617,10 +4641,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IEmailService.html",
-          "hash": "zXWHLgyi4cqU2g/xEuFlNg=="
+          "hash": "NbW+hwghUvBds6xZO+Zd5g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4629,10 +4653,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IEnrollmentService.html",
-          "hash": "nnIwfz6BH6J0FhjC8fV5DA=="
+          "hash": "vSfA0uDvDS0M4+wRUipuDg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4641,10 +4665,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IEventService.html",
-          "hash": "2aw9iL2cTNdzEhisqIbygw=="
+          "hash": "MRm51zeZAOiMR66Mc3GNyQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4653,10 +4677,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IHistoryService.html",
-          "hash": "JCMtVPtHt4/fD30FE3V8fQ=="
+          "hash": "wzdSNUF1rexaCOxWHmDikw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4665,10 +4689,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IItemService.html",
-          "hash": "7GDzo3yPZLqUoFfBUb7W8w=="
+          "hash": "aMlcpJWL7NjsI1uyAfmuOQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4677,10 +4701,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ILoggingService.html",
-          "hash": "HA7LmqKQ8+MHP8xUzZNjOA=="
+          "hash": "Xc5R5G0HKfzCSZRYAGT3XA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4689,10 +4713,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyInService.html",
-          "hash": "YrVTmn0ryIWjy/r19wybwA=="
+          "hash": "QKzZ95Q3mU1QumIoNwwtsQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4701,10 +4725,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IMoneyOutService.html",
-          "hash": "73RIeafRP+YmfCxmiKftbw=="
+          "hash": "NTn97J3S69DEnIqza7FCSQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4713,10 +4737,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.INotificationService.html",
-          "hash": "qPUjnZDJuDzyRugIwP7evA=="
+          "hash": "mhlJ9ZV2xvca7trgtbGH6A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4725,10 +4749,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IOrderService.html",
-          "hash": "lamgPbKVihOGah0NzLJ1eA=="
+          "hash": "QHLHyFu+20lvF6M/oVD+6g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4737,10 +4761,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IOverrideService.html",
-          "hash": "ryUlS8EBsmTTScYScaG3Qg=="
+          "hash": "oPVxhRZt2nKFQlOIsNZPVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4749,10 +4773,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessDataService.html",
-          "hash": "+BvKUZwns07i7mpwVW3Xww=="
+          "hash": "oMUNHEwyJ5DlayaxmikjCA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4761,10 +4785,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IPaymentProcessingService.html",
-          "hash": "pWNR7RGsJGAeAq1n/pHbOQ=="
+          "hash": "L3O9S6BcueJTz5PfmE3vBQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4773,10 +4797,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IPeriodService.html",
-          "hash": "Zfa2a4T9LRrfOhFgi8CxJw=="
+          "hash": "lurdn0J0IO2aoRq9OPK9cg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4785,10 +4809,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IRankService.html",
-          "hash": "Vnx1LHOWaBc/CUnDiCcylg=="
+          "hash": "sZIHpsLYQDSg2IMl7d5OSA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4797,10 +4821,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IRegionService.html",
-          "hash": "C7FNHFIIJloT2Y6FPbnjIA=="
+          "hash": "lJ07YkURYgXDqG46KpQWjw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4809,10 +4833,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IRewardPointsService.html",
-          "hash": "wwiW9MH35ohAPCYKJxTZ2A=="
+          "hash": "sDLY5Fw7tFe4o1l3TY3RYg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4821,10 +4845,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IRmaService.html",
-          "hash": "qJCicLFPY44tEDFsa57D0Q=="
+          "hash": "fiaCvG8fic2o1kdyiHLl6Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4833,10 +4857,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ISettingsService.html",
-          "hash": "Tsd4S/CMekRyuOomth0fuw=="
+          "hash": "1CEa1CXwizPQvLvVHuK65A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4845,10 +4869,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IShippingService.html",
-          "hash": "D4W1fLAQuSsUNRq9mRYj2Q=="
+          "hash": "xhgMS8j4IX1mxjfwYlYyog=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4857,10 +4881,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ISourceService.html",
-          "hash": "M3M1ouHSkQdTKh+9HFhIow=="
+          "hash": "Zk2D2Ao3JPZAkQXbuBS+rA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4869,10 +4893,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IStatsService.html",
-          "hash": "58cU8jU1m3O4DttgXTCPyw=="
+          "hash": "UkR8KduxKL76OEGgWGSwfw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4881,10 +4905,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IStockLevelsService.html",
-          "hash": "YcqcoxbdexaLH6IPUQhL+A=="
+          "hash": "HuOVeF13OjBIjM7WjhuUKw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4893,10 +4917,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IStoreService.html",
-          "hash": "K9xoPr3VeUNk2738jVcozQ=="
+          "hash": "UOsfIJ4LM2XbwDnVN7Me1A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4905,10 +4929,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ISubscriptionService.html",
-          "hash": "Tuwuio3Yvo6f1OwdVYlcpQ=="
+          "hash": "IoKHXum2DpZz2bYJDv3J3Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4917,10 +4941,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ITaxService.html",
-          "hash": "PRxYzDLXDTvZJ3/y4j59pg=="
+          "hash": "tdpPvfPA1xcfuNCmyc/F3A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4929,10 +4953,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ITicketService.html",
-          "hash": "Zr6EI5bf6DDPSVub99Qb9A=="
+          "hash": "5Cfzd33gY2hD/Cgqe+fHGg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4941,10 +4965,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.ITreeService.html",
-          "hash": "EnF4d9XkF1fieaZJz7y7ig=="
+          "hash": "0aqtsaqcB3zVOS2zSDdAkw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4953,10 +4977,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IUserService.html",
-          "hash": "JTjlWA37IgkLurWgU8DJCQ=="
+          "hash": "JMZwSJHU0ZmMIi4weC5uEg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4965,10 +4989,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.IWebsiteService.html",
-          "hash": "Vav18kUYMENgnI5d1orCog=="
+          "hash": "eCTrgYwSWMFhvOukwI4xPw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4977,10 +5001,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Services.html",
-          "hash": "BY16veV6/T/bv+BrEgEkdg=="
+          "hash": "EsAwW3KkneMTio3QE4kQ7Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4989,10 +5013,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ShipMethod.html",
-          "hash": "FXCV9rhMcFowQHi1TtDG3A=="
+          "hash": "3AwPVUTRJVfKqYjJIBPycw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5001,10 +5025,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ShipPackage.html",
-          "hash": "/ElBX1Xu1e7/Y8DNtIt+/Q=="
+          "hash": "dypsleWyS2kxbgqpydIK8w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5013,10 +5037,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ShippingTaxOverride.html",
-          "hash": "H/gfI40OuvTT5HBvxq8DPQ=="
+          "hash": "YW8AeG1enn5WTnPoBhLQHg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5025,10 +5049,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ShippingType.html",
-          "hash": "rkMk7Lf2i7zkfn/W66RREA=="
+          "hash": "EdMNanRnNYCPBqt2HXhspA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5037,10 +5061,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SinglePaymentMoneyInMerchant.html",
-          "hash": "xZGN0XiAHaykpxIxe0uBTw=="
+          "hash": "/gAdVKp8RrR4OTW03ibQAQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5049,10 +5073,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SocialInfo.html",
-          "hash": "beVAnvGnvVj+cBBdfCNwyQ=="
+          "hash": "Gzwgpgk4lv7OtEE2kRWZ+w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5061,10 +5085,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SourceOrder.html",
-          "hash": "+i00YxnE1Y2osnsmxvnLHQ=="
+          "hash": "+3HxVVIZB2F0eswpL/ElRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5073,10 +5097,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.State.html",
-          "hash": "zbCtwvibXJGAXoKGda5YSg=="
+          "hash": "/bXh1T+jc+jsth6kK80zuA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5085,10 +5109,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.StockAdjustment.html",
-          "hash": "av5x+q2SaVvyqT3d9bYg6w=="
+          "hash": "nvaq5k1Nh/AoZOqTjcjgZg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5097,10 +5121,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.StockLevel.html",
-          "hash": "66qsuEnS2i4tbEpKzezzSA=="
+          "hash": "g2knctkvMwPDDLOwYA1QTw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5109,10 +5133,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Store.html",
-          "hash": "k2FN3Ixdibv90qF6flEdNQ=="
+          "hash": "tw6XI4t2qe3o25FZuG/plw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5121,10 +5145,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.StoreType.html",
-          "hash": "qfurbp6KKs1k54t7x4n+uA=="
+          "hash": "CUgxECYwHVQxfjicnb33nA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5133,10 +5157,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.Subscription.html",
-          "hash": "t+qpyluIBeVwcvcqqJRb7w=="
+          "hash": "Y2odP/qclWUtdbpw8NkWRg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5145,10 +5169,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SubscriptionAutoshipSettings.html",
-          "hash": "kr8Vwua18g0fTfOQ7n36+w=="
+          "hash": "T2B61h+BeqNKgWZG10kJlw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5157,10 +5181,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SubscriptionItem.html",
-          "hash": "BBD11TLd/45JyeJUMF3QmA=="
+          "hash": "0aKGh0o/qnCPMMUbK9GF9w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5169,10 +5193,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.SubscriptionPeriodType.html",
-          "hash": "SJHvLKJa3loo/F0cFwa4JA=="
+          "hash": "bU/fxNmrZBUotOKALMNa0Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5181,10 +5205,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TaxLineItem.html",
-          "hash": "+gHZBfNIfXKgs1Vo560ZkQ=="
+          "hash": "MWs76+i987iTQKLVhtSeNw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5193,10 +5217,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TaxProvider.html",
-          "hash": "Z2EEmJfnpiO0wO+HC8Qgjg=="
+          "hash": "VrAHADYspPfjR2iuKNrZhA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5205,10 +5229,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TaxResult.html",
-          "hash": "7AZoG2USNPSymO1r5SQN7A=="
+          "hash": "bqZlA54gUBZzliuFLKFbUA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5217,10 +5241,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TaxResultDetail.html",
-          "hash": "ckYQpjW5vY0W/sPT++UoJg=="
+          "hash": "mZiUVHHKoP9fuYPiUXoEuQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5229,10 +5253,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TaxResultItem.html",
-          "hash": "AUJZlB5Wy/x+D+9REFeN9w=="
+          "hash": "1oCUw03Nl0hyo0n73SiNdw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5241,10 +5265,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TreeFullReEntryRule.html",
-          "hash": "kuuqKJ7XbmlQhvw+PiabmQ=="
+          "hash": "Rqe0aIkAQ6qJXnH+UtvkVQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5253,10 +5277,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.TreeType.html",
-          "hash": "nfOm1oJz5PW+5o8TUZWlIA=="
+          "hash": "yEu39FFSzpKRndKpBtk8zg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5265,10 +5289,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.UpdateOrderInfo.html",
-          "hash": "pOK+Gy/JGEkoJ2vl6rGIpg=="
+          "hash": "LzBjfwAyNxbc+Vz9qSK8qQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5277,10 +5301,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.UpsertCouponResponse.html",
-          "hash": "7vMtEAnlRlDnM6skpfPrSQ=="
+          "hash": "yaJjusJLUEZSYP9ZhoTlEQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5289,10 +5313,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.User.html",
-          "hash": "EsYwrYjswEnwHFmMi5p8uQ=="
+          "hash": "VZ6IwbazPnoW6ppcgfNMAw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5301,10 +5325,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.ValidationResult.html",
-          "hash": "tGbhEx1utSfwHT2NnaDfMA=="
+          "hash": "S4Re/fdPazIMqGAB/cwgFw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5313,10 +5337,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.VolumeSource.html",
-          "hash": "/lveYTk4f077MQEKvDk1ug=="
+          "hash": "3zZdFSSVw3rrMdqJ6tXE0A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5325,10 +5349,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.WebsiteInfo.html",
-          "hash": "w3rALM+YWJc/pKRMQklS7g=="
+          "hash": "nC/EbGUpXNgVZD4XO4Wjbg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5337,10 +5361,10 @@
       "output": {
         ".html": {
           "relative_path": "api/DirectScale.Disco.Extension.html",
-          "hash": "MR0Ful0mNBIS9HLr060ocQ=="
+          "hash": "2b8OVC8rSgdb6YWhuQZTVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5349,10 +5373,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "hq/0k22vSTrfEIs1EkZvHw=="
+          "hash": "hGvqgI3rDU+sCI+Zmos8ug=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5361,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "BPEWcTQsOtYKpdQS0f+iug=="
+          "hash": "Rr2eZ+gyYRMX2AGtK9od1Q=="
         }
       },
       "is_incremental": false,
@@ -5475,13 +5499,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 5,
-          "skipped_file_count": 4
+          "skipped_file_count": 5
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 445,
-          "skipped_file_count": 445
+          "total_file_count": 447,
+          "skipped_file_count": 25
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
