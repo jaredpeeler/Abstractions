@@ -49,7 +49,7 @@
         ]
       }
     ],
-    "dest": "../docs",
+    "dest": "docs",
     "globalMetadataFiles": [],
     "globalMetadata": {
       "_appTitle": "DirectScale Abstractions",
