@@ -2256,7 +2256,7 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "| DirectScale Abstractions",
-    "keywords": "The Abstraction Layer contains a host of methods created by DirectScale that you can use in your own custom code. For example, when creating a custom API: namespace integration.Api { public class TestCustomSources : IApiEndpoint { private readonly ISourceService _sourceService; This snippet inherits from IApiEndpoint and uses ISourceService two interfaces available in the Abstraction Layer. Click each link to learn more. View Abstractions documentation The Abstractions is a public NuGet package included with your Client Extension . Note NuGet Package Link: DirectScale.Disco.Extension.Abstractions"
+    "title": "Welcome Developers | DirectScale Abstractions",
+    "keywords": "Welcome Developers The Abstraction Layer contains a host of methods created by DirectScale that you can use in your custom code. View Abstractions documentation For example, when creating a custom API: namespace integration.Api { public class TestCustomSources : IApiEndpoint { private readonly ISourceService _sourceService; This snippet inherits from IApiEndpoint and uses ISourceService , two interfaces available in the Abstraction Layer. Click each link to learn more. The Abstraction Layer is a public NuGet package included with your Client Extension . Note NuGet Package Link: DirectScale.Disco.Extension.Abstractions"
   }
 }
