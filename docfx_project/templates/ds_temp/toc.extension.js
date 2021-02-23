@@ -10,12 +10,17 @@ exports.preTransform = function (model) {
 
   function transformItem(item, level) {
     if (item.name) {
-      item.name = item.name.replace("Directscale.Disco.", '');
+      item.name = item.name.replace("DirectScale.Disco.", '');
     } else {
       item.name = null;
     }
 
-    
+    if (item.items && item.items.length > 0) {
+      var length = item.items.length;
+      for (var i = 0; i < length; i++) {
+        transformItem(item.items[i], level + 1);
+      };
+    }
   }
 }
 
