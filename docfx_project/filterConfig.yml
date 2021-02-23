@@ -1,7 +1,3 @@
 apiRules: 
- - exclude:
-      uidRegex: ^DirectScale\.Disco\.Extension\.Abstractions\.Tests
-      type: Namespace
-
-
-      
+- exclude:
+     uidRegex: ^DirectScale\.Disco\.Extension\.Abstractions\.Tests

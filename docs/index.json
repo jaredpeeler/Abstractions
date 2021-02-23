@@ -1,14 +1,4 @@
 {
-  "api/DirectScale.Disco.Extension.Abstractions.Tests.html": {
-    "href": "api/DirectScale.Disco.Extension.Abstractions.Tests.html",
-    "title": "Namespace DirectScale.Disco.Extension.Abstractions.Tests | DirectScale Abstractions",
-    "keywords": "Namespace DirectScale.Disco.Extension.Abstractions.Tests Classes Tests"
-  },
-  "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html": {
-    "href": "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html",
-    "title": "Class Tests | DirectScale Abstractions",
-    "keywords": "Class Tests Inheritance System.Object Tests Inherited Members System.Object.ToString() System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.ReferenceEquals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() Namespace : DirectScale.Disco.Extension.Abstractions.Tests Assembly : DirectScale.Disco.Extension.Abstractions.Tests.dll Syntax public class Tests Methods Setup() Declaration public void Setup() Test1() Declaration public void Test1()"
-  },
   "api/DirectScale.Disco.Extension.AccountCommissionMerchant.html": {
     "href": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.html",
     "title": "Class AccountCommissionMerchant | DirectScale Abstractions",

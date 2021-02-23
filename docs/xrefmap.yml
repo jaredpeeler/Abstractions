@@ -7,44 +7,6 @@ references:
   commentId: N:DirectScale.Disco.Extension
   fullName: DirectScale.Disco.Extension
   nameWithType: DirectScale.Disco.Extension
-- uid: DirectScale.Disco.Extension.Abstractions.Tests
-  name: DirectScale.Disco.Extension.Abstractions.Tests
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.html
-  commentId: N:DirectScale.Disco.Extension.Abstractions.Tests
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests
-  nameWithType: DirectScale.Disco.Extension.Abstractions.Tests
-- uid: DirectScale.Disco.Extension.Abstractions.Tests.Tests
-  name: Tests
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html
-  commentId: T:DirectScale.Disco.Extension.Abstractions.Tests.Tests
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests.Tests
-  nameWithType: Tests
-- uid: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup
-  name: Setup()
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html#DirectScale_Disco_Extension_Abstractions_Tests_Tests_Setup
-  commentId: M:DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup()
-  nameWithType: Tests.Setup()
-- uid: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup*
-  name: Setup
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html#DirectScale_Disco_Extension_Abstractions_Tests_Tests_Setup_
-  commentId: Overload:DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup
-  isSpec: "True"
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Setup
-  nameWithType: Tests.Setup
-- uid: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1
-  name: Test1()
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html#DirectScale_Disco_Extension_Abstractions_Tests_Tests_Test1
-  commentId: M:DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1()
-  nameWithType: Tests.Test1()
-- uid: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1*
-  name: Test1
-  href: api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html#DirectScale_Disco_Extension_Abstractions_Tests_Tests_Test1_
-  commentId: Overload:DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1
-  isSpec: "True"
-  fullName: DirectScale.Disco.Extension.Abstractions.Tests.Tests.Test1
-  nameWithType: Tests.Test1
 - uid: DirectScale.Disco.Extension.AccountCommissionMerchant
   name: AccountCommissionMerchant
   href: api/DirectScale.Disco.Extension.AccountCommissionMerchant.html

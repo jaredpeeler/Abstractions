@@ -14,30 +14,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.Tests.html",
-          "hash": "2wf+5zF/LNecSMgawOKPIQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/DirectScale.Disco.Extension.Abstractions.Tests.html",
-          "hash": "QqIriHjkvyfyYhdrvskbNQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/DirectScale.Disco.Extension.AccountCommissionMerchant.yml",
       "output": {
         ".html": {
@@ -5394,7 +5370,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "B5I5u0p0BXX8C4fYXSZOTQ=="
+          "hash": "VcC29PVsk6eKBVgbaKbWQQ=="
         }
       },
       "is_incremental": false,
@@ -5513,8 +5489,8 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 447,
-          "skipped_file_count": 447
+          "total_file_count": 445,
+          "skipped_file_count": 445
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
