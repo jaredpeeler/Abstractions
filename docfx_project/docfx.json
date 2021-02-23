@@ -50,6 +50,7 @@
       }
     ],
     "dest": "../docs",
+    "filter": "filterConfig.yml",
     "globalMetadataFiles": [],
     "globalMetadata": {
       "_appTitle": "DirectScale Abstractions",

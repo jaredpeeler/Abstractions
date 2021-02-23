@@ -1,0 +1,4 @@
+ - exclude:
+      uidRegex: ^DirectScale\.Disco\.Extension\.Abstractions\.Tests
+
+      
