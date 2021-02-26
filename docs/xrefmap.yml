@@ -14285,11 +14285,11 @@ references:
   commentId: T:DirectScale.Disco.Extension.IExtension
   fullName: DirectScale.Disco.Extension.IExtension
   nameWithType: IExtension
-- uid: DirectScale.Disco.Extension.IExtension.ConfigureServices(IServiceCollection)
+- uid: DirectScale.Disco.Extension.IExtension.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
   name: ConfigureServices(IServiceCollection)
-  href: api/DirectScale.Disco.Extension.IExtension.html#DirectScale_Disco_Extension_IExtension_ConfigureServices_IServiceCollection_
-  commentId: M:DirectScale.Disco.Extension.IExtension.ConfigureServices(IServiceCollection)
-  fullName: DirectScale.Disco.Extension.IExtension.ConfigureServices(IServiceCollection)
+  href: api/DirectScale.Disco.Extension.IExtension.html#DirectScale_Disco_Extension_IExtension_ConfigureServices_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:DirectScale.Disco.Extension.IExtension.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName: DirectScale.Disco.Extension.IExtension.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
   nameWithType: IExtension.ConfigureServices(IServiceCollection)
 - uid: DirectScale.Disco.Extension.IExtension.ConfigureServices*
   name: ConfigureServices
@@ -24506,13 +24506,13 @@ references:
   commentId: T:DirectScale.Disco.Extension.Services.ILoggingService
   fullName: DirectScale.Disco.Extension.Services.ILoggingService
   nameWithType: ILoggingService
-- uid: DirectScale.Disco.Extension.Services.ILoggingService.Log(System.LogLevel,System.String,System.Object[])
+- uid: DirectScale.Disco.Extension.Services.ILoggingService.Log(Microsoft.Extensions.Logging.LogLevel,System.String,System.Object[])
   name: Log(LogLevel, String, Object[])
-  href: api/DirectScale.Disco.Extension.Services.ILoggingService.html#DirectScale_Disco_Extension_Services_ILoggingService_Log_System_LogLevel_System_String_System_Object___
-  commentId: M:DirectScale.Disco.Extension.Services.ILoggingService.Log(System.LogLevel,System.String,System.Object[])
+  href: api/DirectScale.Disco.Extension.Services.ILoggingService.html#DirectScale_Disco_Extension_Services_ILoggingService_Log_Microsoft_Extensions_Logging_LogLevel_System_String_System_Object___
+  commentId: M:DirectScale.Disco.Extension.Services.ILoggingService.Log(Microsoft.Extensions.Logging.LogLevel,System.String,System.Object[])
   name.vb: Log(LogLevel, String, Object())
-  fullName: DirectScale.Disco.Extension.Services.ILoggingService.Log(System.LogLevel, System.String, System.Object[])
-  fullName.vb: DirectScale.Disco.Extension.Services.ILoggingService.Log(System.LogLevel, System.String, System.Object())
+  fullName: DirectScale.Disco.Extension.Services.ILoggingService.Log(Microsoft.Extensions.Logging.LogLevel, System.String, System.Object[])
+  fullName.vb: DirectScale.Disco.Extension.Services.ILoggingService.Log(Microsoft.Extensions.Logging.LogLevel, System.String, System.Object())
   nameWithType: ILoggingService.Log(LogLevel, String, Object[])
   nameWithType.vb: ILoggingService.Log(LogLevel, String, Object())
 - uid: DirectScale.Disco.Extension.Services.ILoggingService.Log*
